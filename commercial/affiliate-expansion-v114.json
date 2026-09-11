@@ -1,0 +1,131 @@
+{
+  "version": "V114",
+  "checked_at": "2026-08-30",
+  "site": "https://camping-kiezer.nl/",
+  "policy": {
+    "publish_only_after_approval": true,
+    "our_choices_requires_active_tracking_and_provider_media": true,
+    "pending_programs_must_not_be_linked_from_public_html": true,
+    "commercial_disclosure_location": "voorwaarden"
+  },
+  "networks": [
+    {"key":"awin","priority":1,"account_status":"active","fit":"directly_relevant_nl_programs"},
+    {"key":"tradedoubler","priority":2,"account_status":"active","site_status":"pending_validation","campingkiezer_site_id":"3496583","fit":"roompot_and_goboony_candidates"},
+    {"key":"adtraction","priority":3,"account_status":"active","site_status":"pending_review","campingkiezer_channel_id":"2106601707","fit":"mostly_uk_future_market"},
+    {"key":"webgains","priority":4,"account_status":"not_verified_login_cancelled","fit":"camping_gear_future_category"},
+    {"key":"partnerize","priority":5,"account_status":"new_registration_required","fit":"uk_holiday_parks_future_market"},
+    {"key":"kwanko","priority":6,"account_status":"not_verified_login_cancelled","fit":"no_verified_immediate_nl_match"},
+    {"key":"cj-affiliate","priority":7,"account_status":"not_verified_login_not_completed","fit":"no_verified_immediate_nl_match"}
+  ],
+  "programs": [
+    {
+      "key": "duinrell",
+      "name": "Duinrell NL",
+      "network": "awin",
+      "program_id": "16238",
+      "market": "NL",
+      "status": "pending_approval",
+      "priority": 1,
+      "official_url": "https://www.duinrell.nl/",
+      "allowed_destination_hosts": ["duinrell.nl", "www.duinrell.nl"],
+      "existing_profile_ids": ["ck0695", "ck3949"],
+      "planned_surface": "/aanbieders/duinrell/"
+    },
+    {
+      "key": "camping-and-co",
+      "name": "Camping and Co NL",
+      "network": "awin",
+      "program_id": "17191",
+      "market": "NL",
+      "status": "pending_approval",
+      "submitted_at": "2026-08-30",
+      "priority": 1,
+      "official_url": "https://nl.camping-and-co.com/",
+      "allowed_destination_hosts": ["nl.camping-and-co.com"],
+      "existing_profile_ids": [],
+      "planned_surface": "/aanbieders/camping-and-co/"
+    },
+    {
+      "key": "maasresidence-thorn",
+      "name": "Parc Maasresidence Thorn NL",
+      "network": "awin",
+      "program_id": "99165",
+      "market": "NL",
+      "status": "pending_approval",
+      "submitted_at": "2026-08-30",
+      "priority": 1,
+      "official_url": "https://www.parcmaasresidencethorn.nl/",
+      "allowed_destination_hosts": ["parcmaasresidencethorn.nl", "www.parcmaasresidencethorn.nl"],
+      "existing_profile_ids": [],
+      "planned_surface": "/aanbieders/maasresidence-thorn/"
+    },
+    {
+      "key": "hardloop",
+      "name": "Hardloop NL",
+      "network": "awin",
+      "program_id": "86377",
+      "market": "NL",
+      "status": "pending_approval",
+      "submitted_at": "2026-08-30",
+      "priority": 2,
+      "official_url": "https://nl.hardloop.com/",
+      "allowed_destination_hosts": ["nl.hardloop.com"],
+      "existing_profile_ids": [],
+      "planned_surface": "/kampeeruitrusting/"
+    },
+    {
+      "key": "landal-de",
+      "name": "Landal DE",
+      "network": "awin",
+      "program_id": "9118",
+      "market": "DE",
+      "status": "pending_approval",
+      "submitted_at": "2026-08-30",
+      "priority": 3,
+      "official_url": "https://www.landal.com/",
+      "allowed_destination_hosts": ["landal.com", "www.landal.com"],
+      "existing_profile_ids": ["ck2809", "ck2810", "ck2811", "ck2812"],
+      "planned_surface": "/aanbieders/landal/"
+    },
+    {
+      "key": "eurocamp-de",
+      "name": "Eurocamp DE",
+      "network": "awin",
+      "program_id": "14888",
+      "market": "DE",
+      "status": "pending_approval",
+      "submitted_at": "2026-08-30",
+      "priority": 3,
+      "official_url": "https://www.eurocamp.de/",
+      "allowed_destination_hosts": ["eurocamp.de", "www.eurocamp.de"],
+      "existing_profile_ids": [],
+      "planned_surface": "/aanbieders/eurocamp/"
+    },
+    {
+      "key": "roompot",
+      "name": "Roompot",
+      "network": "tradedoubler",
+      "program_id": null,
+      "market": "NL",
+      "status": "blocked_pending_site_validation",
+      "priority": 1,
+      "official_url": "https://www.roompot.nl/",
+      "allowed_destination_hosts": ["roompot.nl", "www.roompot.nl"],
+      "existing_profile_ids": ["ck0625", "ck3432", "ck3433"],
+      "planned_surface": "/aanbieders/roompot/"
+    },
+    {
+      "key": "goboony",
+      "name": "Goboony",
+      "network": "tradedoubler",
+      "program_id": "325954",
+      "market": "NL",
+      "status": "blocked_pending_site_validation",
+      "priority": 2,
+      "official_url": "https://www.goboony.nl/",
+      "allowed_destination_hosts": ["goboony.nl", "www.goboony.nl"],
+      "existing_profile_ids": [],
+      "planned_surface": "/aanbieders/goboony/"
+    }
+  ]
+}

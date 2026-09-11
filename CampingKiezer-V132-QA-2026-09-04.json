@@ -1,0 +1,38 @@
+{
+  "version": "V132",
+  "checked_at": "2026-09-04",
+  "daisycon": {
+    "media": "Camping kiezer",
+    "media_id": "424678",
+    "approved_campaigns": 11,
+    "provider_pages": 10,
+    "vodatent_programs_share_one_page": true,
+    "uplandparcs_program_id": "15690",
+    "uplandparcs_feed_offers": 1,
+    "uplandparcs_deeplinks_checked": 1,
+    "failures": 0
+  },
+  "search_console": {
+    "crawled_not_indexed_urls_analyzed": 26,
+    "discovered_not_indexed_examples_analyzed": 1000,
+    "example_urls_existing": 1000,
+    "example_urls_self_canonical": 1000,
+    "orphan_example_urls_before": 45,
+    "orphan_example_urls_after": 0,
+    "low_score_profiles_noindexed": 84,
+    "noindex_urls_in_sitemaps": 0,
+    "redirect_urls_in_sitemaps": 0,
+    "broken_internal_links": 0
+  },
+  "site": {
+    "html_files": 4546,
+    "indexable_pages": 4417,
+    "sitemap_unique_urls": 4415,
+    "internal_links_checked": 249257,
+    "our_choices": 51,
+    "tradetracker_approved_campaigns": 42
+  },
+  "farmcamps_v130_validation_retained": true,
+  "search_console_404_redirects_v131_retained": true,
+  "failures": 0
+}

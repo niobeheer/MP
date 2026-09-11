@@ -1,0 +1,40 @@
+CampingKiezer V126 — complete goedkeuringen, verhuur en navigatie
+Datum: 1 september 2026
+
+IN DEZE RELEASE
+- Alle op 1 september 2026 bekende en bevestigde CampingKiezer-campagnes samengebracht in één manifest.
+- 29 externe TradeTracker-goedkeuringen verwerkt.
+- 10 Daisycon-campagnes verwerkt.
+- Door overlap tussen campagnes/netwerken zijn dit 37 unieke publieke aanbieders.
+- Alle 37 staan alfabetisch op de homepage en op /onze-keuzes/.
+- Alle 37 hebben een aanbiederspagina, afbeelding en interne route.
+- Werkende productfeeds zijn gekoppeld aan echte trackinglinks.
+- Voor Easyatent, De Leistert, LuxCamp, De Norgerberg en RCN wordt op de keuzekaart een actuele feedafbeelding geladen.
+- De TopParken-feed bevat wel 296 actuele producten en trackinglinks, maar geen afbeeldingsvelden; daarom gebruikt de keuzekaart een passend lokaal vakantieparkbeeld.
+- Voor Arden Parks Comblain, Arden Parks Durbuy, De Twee Bruggen, Het Eperwoud en Molecaten zijn passende beelden gemaakt op basis van hun daadwerkelijke aanbod.
+
+PARTICULIER VERHUREN
+- Het volledige verhuurblok staat direct onder de homepagehero.
+- 'Chalet verhuren' staat in de hoofdnavigatie.
+- De bovenbalk verwijst naar particulier verhuren.
+- De footer verwijst naar 'Chalet of caravan verhuren'.
+- Directe route: /seizoensplaats-verhuren/.
+- Netlify-formulier 'particuliere-seizoensplaats' blijft actief.
+
+HEADER EN FOOTER
+- Dezelfde header en footer toegepast op alle 4.528 pagina's met hoofdnavigatie.
+- Home blijft bewust als eerste vaste navigatie-item staan; alle overige menu-items staan alfabetisch.
+- Alle footeronderdelen en links staan alfabetisch.
+
+CONTROLES
+- 4.531 HTML-pagina's gecontroleerd.
+- 248.420 interne links gecontroleerd: 0 fouten.
+- 37 goedgekeurde aanbieders op homepage en Onze keuzes: 0 ontbrekend.
+- 25 productfeedkoppelingen live getest: 0 fouten.
+- Alle JavaScript- en functionbestanden syntactisch gecontroleerd.
+- Vergelijker: 4.111 records; maximaal 3 campings; verschillenfilter en deelbare URL intact.
+- Faciliteitenfilters op 29 themapagina's intact.
+- Verhuurformulier, privacy- en voorwaardenintegratie intact.
+
+BELANGRIJKE STATUSGRENS
+Deze release bevat alle goedkeuringen die in de accountaudit en aangeleverde e-mails tot en met 1 september 2026 als goedgekeurd waren bevestigd. Campagnes die daarna worden goedgekeurd, moeten in een volgende release worden toegevoegd.

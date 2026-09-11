@@ -1,0 +1,32 @@
+{
+  "version": "V130",
+  "checked_at": "2026-09-04",
+  "farmcamps": {
+    "campaign_id": "12236",
+    "feed_id": "2433764",
+    "media_id": "514819",
+    "feed_total": 24,
+    "offers_checked": 24,
+    "tracking_links_checked": 24,
+    "deeplinks_checked": 24,
+    "feed_images_checked": 24,
+    "static_header_image": false,
+    "slider_present": false,
+    "our_choices_uses_feed_image": true,
+    "failures": 0
+  },
+  "search": {
+    "html_files": 4545,
+    "internal_links_checked": 249051,
+    "broken_internal_links": 0,
+    "sitemap_unique_urls": 4498,
+    "noindex_urls_in_sitemap": 0,
+    "redirect_urls_in_sitemap": 0,
+    "duplicate_sitemap_title_groups": 0
+  },
+  "affiliate": {
+    "tradetracker_real_partner_campaigns": 42,
+    "farmcamps_in_our_choices": true
+  },
+  "failures": 0
+}

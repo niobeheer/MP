@@ -1,0 +1,16 @@
+{
+  "version": "V113",
+  "release": "De Boshoek profielupgrade",
+  "date": "2026-08-28",
+  "status": "passed",
+  "html_pages_checked": 4512,
+  "duplicate_titles": 0,
+  "duplicate_descriptions": 0,
+  "duplicate_canonicals": 0,
+  "provider_feeds_tested": 17,
+  "provider_feed_failures": 0,
+  "de_boshoek_feed_total": 68,
+  "de_boshoek_pages_http_200": true,
+  "json_ld_valid": true,
+  "image_bank_access": "pending"
+}

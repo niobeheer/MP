@@ -1,0 +1,17 @@
+CampingKiezer v116 — volledige TradeTracker-controle
+Datum: 1 september 2026
+
+Gerealiseerd
+- Alle 25 geaccepteerde campagnes van Nio-beheer gecontroleerd; 24 daarvan zijn externe partners.
+- Zes ontbrekende aanbieders met actueel aanbod toegevoegd: Easyatent, De Leistert, LuxCamp, De Norgerberg, RCN en TopParken.
+- Vijf goedgekeurde aanbieders zonder productaanbod gekoppeld via echte TradeTracker-trackinglinks: Arden Parks Comblain, Arden Parks Durbuy, De Twee Bruggen, Eperwoud en Molecaten.
+- Campings.com blijft op één bestaande aanbiederspagina staan om dubbel aanbod te voorkomen.
+- Aanbiedersoverzicht uitgebreid van 21 naar 32 aanbieders.
+- Nieuwe aanbiedersroutes aan de sitemap toegevoegd.
+- Technische feedteksten en losse commissieteksten van de aanbiederspagina's verwijderd.
+
+Controle
+- TradeTracker-site-ID voor CampingKiezer: 514819.
+- Campagne-ID, feed-ID en trackinghandtekening worden per nieuwe koppeling gecontroleerd.
+- CortenKiezer heeft in TradeTracker geen externe geaccepteerde campagne.
+- VerblijfKiezer heeft één externe geaccepteerde campagne: Heerlijkehuisjes.nl.

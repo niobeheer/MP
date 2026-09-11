@@ -1,0 +1,129 @@
+{
+  "release": "CampingKiezer v127",
+  "generatedAt": "2026-09-04",
+  "added": {
+    "id": "ck4196",
+    "name": "Vakantiepark Dierenbos",
+    "slug": "vakantiepark-dierenbos",
+    "city": "Vinkel",
+    "municipality": "'s-Hertogenbosch",
+    "province": "Noord-Brabant",
+    "address": "Vinkeloord 1, 5382 JX Vinkel",
+    "lat": null,
+    "lng": null,
+    "phone": null,
+    "email": null,
+    "website": "https://www.dierenbos.nl/",
+    "types": [
+      "Kampeerplaats",
+      "Comfortplaats",
+      "Privé-sanitairplaats",
+      "Tent",
+      "Vakantiehuis"
+    ],
+    "facilities": [
+      "Binnenzwembad",
+      "Buitenzwembad",
+      "Zwemvijver",
+      "Privé sanitair",
+      "Kinderboerderij",
+      "Animatieteam",
+      "Speeltuin",
+      "Binnenspeeltuin",
+      "Restaurant",
+      "Bowling"
+    ],
+    "providers": [
+      "Vakantiepark Dierenbos"
+    ],
+    "kind": "Camping / vakantiepark",
+    "location_types": [
+      "Camping",
+      "Vakantiepark"
+    ],
+    "tags": [
+      "kindercamping",
+      "familiecamping",
+      "officiele-websitecontrole-v127"
+    ],
+    "filter_stays": [
+      "tent",
+      "holiday_home"
+    ],
+    "filter_facilities": [
+      "indoor_pool",
+      "outdoor_pool",
+      "natural_water",
+      "private_sanitary",
+      "animation",
+      "playground",
+      "indoor_play",
+      "restaurant"
+    ],
+    "filter_audience": [
+      "family"
+    ],
+    "filter_commercial": [
+      "direct_booking"
+    ],
+    "price": null,
+    "price_status": "unknown",
+    "operational_status": "active",
+    "status": "official-source-verified",
+    "status_label": "Officiële website gecontroleerd",
+    "source_name": "Officiële website Vakantiepark Dierenbos",
+    "source_page": "https://www.dierenbos.nl/overnachten/camping",
+    "sources": [
+      "https://www.dierenbos.nl/overnachten/camping",
+      "https://www.dierenbos.nl/over-ons/praktische-info/adres-en-route"
+    ],
+    "source_audit_urls": [
+      "https://www.dierenbos.nl/overnachten/camping",
+      "https://www.dierenbos.nl/over-ons/praktische-info/adres-en-route"
+    ],
+    "checked_at": "2026-09-04",
+    "classification_checked_at": "2026-09-04",
+    "consumer_information_checked_at": "2026-09-04",
+    "publication_checked_at": "2026-09-04",
+    "classification_basis": "Officiële campingpagina met zes benoemde kampeerplaatstypen",
+    "consumer_verified_groups": [
+      "identity",
+      "location",
+      "stay_types",
+      "facilities",
+      "official_source",
+      "booking_route"
+    ],
+    "consumer_information_score": 6,
+    "visitor_complete_core_count": 6,
+    "visitor_complete_core_total": 7,
+    "visitor_complete": true,
+    "minimum_three_of_seven": true,
+    "minimum_four_of_seven": true,
+    "publication_status": "published",
+    "is_visible": true,
+    "search_included": true,
+    "sitemap_included": true,
+    "booking_url": "https://www.dierenbos.nl/overnachten/camping",
+    "booking_route_type": "official-camping-page",
+    "booking_system": null,
+    "image": null,
+    "image_note": "Gebruik uitsluitend aantoonbaar herbruikbaar of door de aanbieder aangeleverd beeld.",
+    "photo_disclaimer": null,
+    "photo_display_status": "not-published-rights-unverified",
+    "subtitle": "Kindercamping en vakantiepark in Vinkel",
+    "osm_source_timestamp": null,
+    "pdok_location_source": null
+  },
+  "officialEvidence": [
+    "https://www.dierenbos.nl/overnachten/camping",
+    "https://www.dierenbos.nl/over-ons/praktische-info/adres-en-route"
+  ],
+  "integrations": [
+    "search dataset",
+    "profile page",
+    "camping A-Z page 80",
+    "Noord-Brabant region page",
+    "camping sitemap"
+  ]
+}

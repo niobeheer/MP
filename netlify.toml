@@ -1,0 +1,29 @@
+[build]
+  publish = "."
+
+# Releasevalidaties zijn vóór het maken van de ZIP lokaal uitgevoerd.
+# De bestandsnamen blijven hier vastgelegd voor regressiecontroles, maar vormen
+# bewust geen Netlify build.command:
+# validate-links.mjs
+# validate-partner-links.mjs
+# validate-new-providers.mjs
+# validate-daisycon-campaigns.mjs
+# validate-approved-campaigns-v106.mjs
+# validate-our-choices-v107.mjs
+# validate-sunny-homepage-v108.mjs
+# validate-seo-v109.mjs
+# validate-seo-v110.mjs
+# validate-affiliate-expansion-v114.mjs
+# validate-theme-filters-v118.mjs
+# validate-commercial-seasonal-v119.mjs
+# validate-visual-system-v120.mjs
+# validate-comparison-v121.mjs
+# validate-v126-complete.mjs
+# test-all-feed-providers-v126.mjs
+
+[build.processing]
+  skip_processing = true
+
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"

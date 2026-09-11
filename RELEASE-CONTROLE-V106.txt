@@ -1,0 +1,38 @@
+CampingKiezer V106 - COMPLETE CONTROLE GOEDGEKEURDE CAMPAGNES
+
+Accountcontroles op 27-08-2026:
+- Daisycon: 10 goedgekeurde campagnes voor Camping kiezer (424678).
+- TradeTracker: 12 relevante goedgekeurde reis- en vakantiecampagnes voor Nio-beheer (514819).
+- 21 unieke aanbieders zichtbaar op /aanbieders/.
+
+Daisycon-productfeeds:
+- Bungalow.Net: 3.257
+- Campings.com: 2.765
+- Vipio: 1.245
+- Vodatent (NL): 143
+- Tendi: 25
+- Vodatent.com: 132, gecontroleerde alternatieve merkfeed; niet dubbel getoond naast de Nederlandstalige Vodatent-feed.
+
+Daisycon zonder productfeed:
+- Glamping4all
+- Landgoed Ruwinkel
+- Lake Resort & Safari Resort Beekse Bergen
+- Dierenbos Vakantiepark
+
+Deze vier aanbieders hebben een eigen beeldrijke voorkeurs­pagina met afzonderlijke affiliate-deeplinks naar relevante categorieën en aanbiedingen. De links zijn live gevolgd tot een HTTP 200-eindpagina. Er is daarnaast een gerichte productfeedaanvraag voorbereid.
+
+TradeTracker:
+- Alle 12 relevante goedgekeurde campagnes hebben minimaal één productfeed.
+- De primaire Nederlandstalige feeds zijn per campagne vastgelegd in commercial/approved-campaigns-v106.json.
+- Extra feedvarianten die dezelfde campagne of een andere taal vertegenwoordigen worden niet als losse aanbieder verdubbeld.
+- Ook de volledige Allcamps-feed met 1.597 verblijven is aangesloten; de bestaande handmatig geselecteerde Nederlandse campings blijven daarnaast zichtbaar.
+
+Technische eindcontrole:
+- 12 TradeTracker-feeds en 5 unieke Daisycon-merkfeeds live uitgelezen.
+- 17 feedfuncties geven bruikbaar aanbod en geldige HTTPS-trackinglinks terug.
+- 4 aanbieders zonder feed hebben samen 13 beeldrijke categorie- en aanbiedingsdeeplinks.
+- 4.511 HTML-bestanden en 238.208 interne links gecontroleerd: 0 fouten.
+
+Rangschikking:
+- Commerciële vergoeding bepaalt niet de prijsvolgorde.
+- Een bevestigde laagste totaalsom blijft leidend waar prijzen onderling worden vergeleken.

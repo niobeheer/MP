@@ -1,0 +1,29 @@
+CAMPINGKIEZER V84 — PRODUCTIECONTROLE
+
+Deze volledige release hoort uitsluitend bij camping-kiezer.nl en bouwt voort op v81.
+
+Na een correcte productie-deploy zijn direct controleerbaar:
+- /health.json vermeldt versie 84;
+- 4.111 zichtbare locatieprofielen;
+- /sitemap.xml is een sitemapindex met 11 deelsitemaps;
+- /regios/ toont de nieuwe provinciehub;
+- /kennisbank/ vermeldt 46 gidsen;
+- /methodologie/, /bronnenbeleid/, /redactiebeleid/ en /bedrijfsinformatie/ werken;
+- ieder profiel toont "Laatst gecontroleerd", "Bronstatus" en "Claimstatus";
+- de zoekpagina bevat direct HTML-resultaten maar blijft noindex;
+- filterparameters staan niet in de sitemaps;
+- rechtsboven staan "Zakelijk & tarieven" en "Claim uw bedrijf";
+- de footer bevat het zakelijke blok en de vier transparantiepagina's.
+
+Releasepoort:
+- 4.491 HTML-pagina's gecontroleerd;
+- 4.491 unieke titles, meta descriptions en H1's;
+- 4.446 indexeerbare canonieke URL's in precies één deelsitemap;
+- 0 gebroken interne links;
+- alle JSON-LD syntactisch geldig;
+- 4.111 profielpagina's met Campground- of Resort-schema;
+- 61,9% minder beeldbytes voor de zes generieke in-page campingfoto's via WebP;
+- JavaScript en Netlify Functions syntactisch gecontroleerd.
+
+Blijft live health.json op versie 81 of ontbreekt /regios/, dan is v84 niet op het
+juiste Netlify-productieproject gepubliceerd.

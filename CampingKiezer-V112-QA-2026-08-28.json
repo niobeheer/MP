@@ -1,0 +1,15 @@
+{
+  "release": "v112-youtube-kindercampings-landing-page",
+  "date": "2026-08-28",
+  "status": "passed",
+  "checks": [
+    {"name": "landing-page", "status": "passed", "detail": "/beste-kindercampings-nederland/ created"},
+    {"name": "selection-count", "status": "passed", "detail": "10 family camping cards"},
+    {"name": "internal-links", "status": "passed", "detail": "all referenced internal targets resolve in build"},
+    {"name": "affiliate-safety", "status": "passed", "detail": "commercial routes limited to approved provider pages; no raw tracking URL inserted"},
+    {"name": "youtube-attribution", "status": "passed", "detail": "UTM campaign parameters added to landing-page profile and provider links"},
+    {"name": "mobile-layout", "status": "passed", "detail": "responsive styles included for 900px and 600px breakpoints"},
+    {"name": "internal-discovery", "status": "passed", "detail": "camping-with-children guide links to new comparison"},
+    {"name": "sitemap", "status": "passed", "detail": "new canonical URL added and sitemap XML parsed successfully"}
+  ]
+}

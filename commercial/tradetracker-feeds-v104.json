@@ -1,0 +1,38 @@
+{
+  "version": "V104",
+  "checked_at": "2026-08-27",
+  "affiliate_site_id": "514819",
+  "feeds": [
+    {
+      "feed_id": "1634850",
+      "campaign_id": "1852",
+      "provider": "ACSI Reizen",
+      "format": "xml-v2",
+      "products_checked": 42,
+      "status": "integrated",
+      "route": "/aanbieders/acsi-reizen/",
+      "tracking_signature": "1852_1634850_514819_"
+    },
+    {
+      "feed_id": "250953",
+      "campaign_id": "1854",
+      "provider": "Suncamp",
+      "format": "xml-v2",
+      "products_checked": 346,
+      "status": "verified-duplicate-not-imported",
+      "duplicate_of": "1163607",
+      "overlapping_product_ids": 346,
+      "reason": "Alle product-ID's overlappen met de rijkere JSON-feed; dubbel importeren zou dubbel aanbod veroorzaken."
+    },
+    {
+      "feed_id": "1163607",
+      "campaign_id": "1854",
+      "provider": "Suncamp",
+      "format": "json",
+      "products_checked": 346,
+      "status": "integrated",
+      "route": "/aanbieders/suncamp/",
+      "tracking_signature": "1854_1163607_514819_"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+PRODUCTFEEDAANVRAGEN V106
+
+Positionering
+- Niet spreken over "een vuist tegen concurrenten", betaalde ranking of gegarandeerde exclusiviteit.
+- Wel benadrukken: bewust geselecteerd, eigen aanbiederspagina, relevante doelgroep en een rijkere presentatie zodra actuele feeddata beschikbaar is.
+- Een productfeed maakt afzonderlijke accommodaties, aanbiedingen, prijzen en beschikbaarheid doorzoekbaar; zonder feed blijven gerichte categorie-deeplinks bruikbaar.
+
+
+1. GLAMPING4ALL
+
+Onderwerp: Glamping4all als uitgelichte voorkeursaanbieder – aanvraag productfeed
+
+Beste team van Glamping4all,
+
+Bedankt voor de goedkeuring van CampingKiezer voor jullie campagne.
+
+We hebben Glamping4all bewust geselecteerd als uitgelichte voorkeursaanbieder op https://camping-kiezer.nl. Jullie aanbod sluit sterk aan bij bezoekers die gericht zoeken naar glamping, luxe safaritenten, lodges en actuele last-minute- en laagseizoensaanbiedingen.
+
+Daarom richten we een eigen aanbiederspagina in, met afzonderlijke aandacht voor actuele aanbiedingen, glampings in Nederland en kindvriendelijke glampings met animatie. Om jullie aanbod nog vollediger, actueler en beter doorzoekbaar te presenteren, ontvangen we graag een productfeed of API-koppeling.
+
+Idealiter bevat deze minimaal:
+- accommodatienaam en verblijfstype;
+- camping, plaats, regio en land;
+- actuele prijs en beschikbaarheid;
+- aanbieding of kortingsinformatie;
+- een afbeelding die promotioneel gebruikt mag worden;
+- een rechtstreekse boekings- of deeplink per accommodatie.
+
+XML, JSON of CSV is allemaal bruikbaar. Ook een kleinere feed met alleen actuele accommodaties en aanbiedingen is welkom. Met zo'n feed kunnen we jullie aanbod veel concreter uitlichten en bezoekers rechtstreeks naar het best passende verblijf leiden.
+
+Kunnen jullie aangeven of er een productfeed, API of periodieke export beschikbaar is? Daisycon mag deze uiteraard ook rechtstreeks beschikbaar stellen aan CampingKiezer, media-ID 424678.
+
+Alvast bedankt. We kijken ernaar uit om Glamping4all uitgebreid onder de aandacht te brengen.
+
+Met vriendelijke groet,
+
+Jeroen Derksen
+https://camping-kiezer.nl
+
+
+2. LANDGOED RUWINKEL
+
+Onderwerp: Landgoed Ruwinkel als uitgelichte voorkeursaanbieder – aanvraag productfeed
+
+Beste team van Landgoed Ruwinkel,
+
+Bedankt voor de goedkeuring van CampingKiezer voor jullie campagne.
+
+We hebben Landgoed Ruwinkel bewust geselecteerd als uitgelichte voorkeursaanbieder op https://camping-kiezer.nl. De vrijstaande vakantiehuizen, chalets en landhuizen in de Gelderse Vallei vormen een sterke aanvulling op ons aanbod, in het bijzonder voor gezinnen, grotere gezelschappen en gasten die met hun hond reizen.
+
+Daarom krijgt Landgoed Ruwinkel een eigen aanbiederspagina waarop we de vakantiehuizen en huisdiervriendelijke verblijven afzonderlijk uitlichten. Om ook concrete accommodaties, actuele prijzen, beschikbaarheid en aanbiedingen te kunnen tonen, ontvangen we graag een productfeed of API-koppeling.
+
+Idealiter bevat deze minimaal:
+- naam, type en capaciteit van de accommodatie;
+- park, plaats en regio;
+- actuele prijs en beschikbaarheid;
+- aanbieding of kortingsinformatie;
+- kenmerken zoals huisdieren toegestaan;
+- een afbeelding die promotioneel gebruikt mag worden;
+- een rechtstreekse boekings- of deeplink per vakantiehuis.
+
+XML, JSON of CSV is allemaal bruikbaar. Ook een compacte feed met alleen de actuele vakantiehuizen en aanbiedingen helpt ons al enorm. Daarmee kunnen we jullie aanbod prominenter en veel concreter presenteren dan met alleen een algemene campagnelink.
+
+Kunnen jullie aangeven of er een productfeed, API of periodieke export beschikbaar is? Daisycon mag deze uiteraard ook rechtstreeks beschikbaar stellen aan CampingKiezer, media-ID 424678.
+
+Alvast bedankt. We kijken ernaar uit om Landgoed Ruwinkel uitgebreid onder de aandacht te brengen.
+
+Met vriendelijke groet,
+
+Jeroen Derksen
+https://camping-kiezer.nl
+
+
+3. LIBÉMA: BEEKSE BERGEN EN DIERENBOS
+
+Onderwerp: Beekse Bergen en Dierenbos als uitgelichte voorkeursaanbieders – aanvraag productfeeds
+
+Beste team van Libéma,
+
+Bedankt voor de goedkeuring van CampingKiezer voor Lake Resort & Safari Resort Beekse Bergen en Vakantiepark Dierenbos.
+
+We hebben beide parken bewust geselecteerd als uitgelichte voorkeursaanbieders op https://camping-kiezer.nl. Ze krijgen ieder een eigen aanbiederspagina die aansluit op de manier waarop gezinnen naar een verblijf zoeken.
+
+Voor Beekse Bergen lichten we vakantiehuisjes, glamping, camping en Lake Resort afzonderlijk uit. Voor Dierenbos richten we ons op vakantiehuisjes, lodgetenten en glamping, kampeerplaatsen, kindgerichte verblijven en actuele aanbiedingen.
+
+Om deze presentatie verder uit te bouwen met concrete accommodaties, actuele prijzen, beschikbaarheid en aanbiedingen, ontvangen we graag een productfeed of API-koppeling per park of campagne.
+
+Idealiter bevat deze minimaal:
+- accommodatienaam, verblijfstype en capaciteit;
+- park en locatie;
+- actuele prijs en beschikbaarheid;
+- aanbieding of kortingsinformatie;
+- gezins- en kindvoorzieningen;
+- een afbeelding die promotioneel gebruikt mag worden;
+- een rechtstreekse boekings- of deeplink per accommodatie.
+
+XML, JSON of CSV is allemaal bruikbaar. Ook een kleinere feed met alleen actuele accommodaties en aanbiedingen is welkom. Met actuele feeddata kunnen we beide parken veel rijker presenteren en bezoekers rechtstreeks naar het best passende verblijf of aanbod leiden.
+
+Kunnen jullie aangeven of hiervoor productfeeds, een API of periodieke exports beschikbaar zijn? Daisycon mag de koppelingen uiteraard ook rechtstreeks beschikbaar stellen aan CampingKiezer, media-ID 424678.
+
+Alvast bedankt. We kijken ernaar uit om Beekse Bergen en Dierenbos uitgebreid onder de aandacht te brengen.
+
+Met vriendelijke groet,
+
+Jeroen Derksen
+https://camping-kiezer.nl

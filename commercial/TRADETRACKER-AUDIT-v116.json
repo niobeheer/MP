@@ -1,0 +1,265 @@
+{
+  "version": "v123",
+  "checked_at": "2026-09-01",
+  "counts_include_tradetracker_default_campaign": true,
+  "sites": [
+    {
+      "site": "Autobedrijfkiezer",
+      "site_id": "514985",
+      "accepted": 9,
+      "pending": 4,
+      "rejected": 0,
+      "unsubscribed": 0
+    },
+    {
+      "site": "Autostoeltjekiezer",
+      "site_id": "515217",
+      "accepted": 2,
+      "pending": 2,
+      "rejected": 0,
+      "unsubscribed": 0
+    },
+    {
+      "site": "Cortenkiezer",
+      "site_id": "514900",
+      "accepted": 1,
+      "pending": 0,
+      "rejected": 0,
+      "unsubscribed": 9
+    },
+    {
+      "site": "DierenartsKiezer",
+      "site_id": "515285",
+      "accepted": 8,
+      "pending": 16,
+      "rejected": 0,
+      "unsubscribed": 0
+    },
+    {
+      "site": "Kinderopvang-Kiezer",
+      "site_id": "515284",
+      "accepted": 3,
+      "pending": 19,
+      "rejected": 0,
+      "unsubscribed": 0
+    },
+    {
+      "site": "LangerThuisKiezer",
+      "site_id": "515282",
+      "accepted": 11,
+      "pending": 41,
+      "rejected": 0,
+      "unsubscribed": 0
+    },
+    {
+      "site": "Nio-beheer / CampingKiezer",
+      "site_id": "514819",
+      "accepted": 30,
+      "pending": 9,
+      "rejected": 2,
+      "unsubscribed": 0
+    },
+    {
+      "site": "Porsche kiezer",
+      "site_id": "514901",
+      "accepted": 1,
+      "pending": 0,
+      "rejected": 0,
+      "unsubscribed": 0
+    },
+    {
+      "site": "VerblijfKiezer",
+      "site_id": "514899",
+      "accepted": 7,
+      "pending": 10,
+      "rejected": 0,
+      "unsubscribed": 0
+    }
+  ],
+  "campingkiezer": {
+    "external_accepted": 29,
+    "published_provider_count": 29,
+    "product_feed_pages": [
+      {
+        "campaign_id": "29886",
+        "name": "Ackersate.nl",
+        "feed_id": "1501781",
+        "route": "/aanbieders/ackersate/"
+      },
+      {
+        "campaign_id": "30368",
+        "name": "ACSI Eurocampings.nl",
+        "feed_id": "1624201",
+        "route": "/aanbieders/acsi-eurocampings/"
+      },
+      {
+        "campaign_id": "1852",
+        "name": "ACSIreizen.nl",
+        "feed_id": "1634850",
+        "route": "/aanbieders/acsi-reizen/"
+      },
+      {
+        "campaign_id": "2657",
+        "name": "Allcamps.nl",
+        "feed_id": "2166132",
+        "route": "/aanbieders/allcamps/"
+      },
+      {
+        "campaign_id": "589",
+        "name": "Ardoer.com",
+        "feed_id": "2554028",
+        "route": "/aanbieders/ardoer/"
+      },
+      {
+        "campaign_id": "35552",
+        "name": "Campings.com NL",
+        "route": "/aanbieders/campings-com/",
+        "note": "provider already published through the approved Daisycon connection"
+      },
+      {
+        "campaign_id": "17578",
+        "name": "Deboshoek.nl",
+        "feed_id": "1425497",
+        "route": "/aanbieders/de-boshoek/"
+      },
+      {
+        "campaign_id": "15663",
+        "name": "Devossenburcht.nl",
+        "feed_id": "735700",
+        "route": "/aanbieders/de-vossenburcht/"
+      },
+      {
+        "campaign_id": "31300",
+        "name": "Easyatent.nl",
+        "feed_id": "2530953",
+        "route": "/aanbieders/easyatent/"
+      },
+      {
+        "campaign_id": "32702",
+        "name": "Europarcs.nl",
+        "feed_id": "2543782",
+        "route": "/aanbieders/europarcs/"
+      },
+      {
+        "campaign_id": "12236",
+        "name": "FarmCamps.com",
+        "feed_id": "2433764",
+        "route": "/aanbieders/farmcamps/"
+      },
+      {
+        "campaign_id": "1217",
+        "name": "Gustocamp.nl",
+        "feed_id": "2378774",
+        "route": "/aanbieders/gusto-camp/"
+      },
+      {
+        "campaign_id": "27046",
+        "name": "Leistert.nl",
+        "feed_id": "1257652",
+        "route": "/aanbieders/leistert/"
+      },
+      {
+        "campaign_id": "30667",
+        "name": "Lux-Camp.nl",
+        "feed_id": "2218660",
+        "route": "/aanbieders/lux-camp/"
+      },
+      {
+        "campaign_id": "34001",
+        "name": "Norgerberg.nl",
+        "feed_id": "1857414",
+        "route": "/aanbieders/norgerberg/"
+      },
+      {
+        "campaign_id": "19098",
+        "name": "RCN.nl",
+        "feed_id": "2004232",
+        "route": "/aanbieders/rcn/"
+      },
+      {
+        "campaign_id": "1854",
+        "name": "Suncamp.nl",
+        "feed_id": "1163607",
+        "route": "/aanbieders/suncamp/"
+      },
+      {
+        "campaign_id": "30138",
+        "name": "TopParken.nl",
+        "feed_id": "2412602",
+        "route": "/aanbieders/topparken/"
+      },
+      {
+        "campaign_id": "6475",
+        "name": "Zandstuve.nl",
+        "feed_id": "1449416",
+        "route": "/aanbieders/zandstuve/"
+      },
+      {
+        "campaign_id": "14070",
+        "name": "Kampeerwereld.nl",
+        "feed_id": "912905",
+        "route": "/aanbieders/kampeerwereld/"
+      },
+      {
+        "campaign_id": "32248",
+        "name": "Ommerland.nl",
+        "feed_id": "2230178",
+        "route": "/aanbieders/ommerland/"
+      }
+    ],
+    "tracked_link_pages": [
+      {
+        "campaign_id": "39168",
+        "name": "Ardenparks-comblain.be",
+        "route": "/aanbieders/arden-parks-comblain/"
+      },
+      {
+        "campaign_id": "39165",
+        "name": "Ardenparks-durbuy.be",
+        "route": "/aanbieders/arden-parks-durbuy/"
+      },
+      {
+        "campaign_id": "15154",
+        "name": "Detweebruggen.nl",
+        "route": "/aanbieders/de-twee-bruggen/"
+      },
+      {
+        "campaign_id": "39552",
+        "name": "eperwoud.nl",
+        "route": "/aanbieders/eperwoud/"
+      },
+      {
+        "campaign_id": "2857",
+        "name": "Molecaten.nl",
+        "route": "/aanbieders/molecaten/"
+      },
+      {
+        "campaign_id": "32249",
+        "name": "Flevonatuur.nl",
+        "route": "/aanbieders/flevonatuur/"
+      },
+      {
+        "campaign_id": "41107",
+        "name": "Koeksebelt.nl",
+        "route": "/aanbieders/koeksebelt/"
+      },
+      {
+        "campaign_id": "32247",
+        "name": "Samoza.nl",
+        "route": "/aanbieders/samoza/"
+      }
+    ]
+  },
+  "verblijfkiezer": {
+    "external_accepted": 1,
+    "published_provider_count": 1,
+    "campaign_id": "13948",
+    "name": "Heerlijkehuisjes.nl",
+    "feed_id": "1825530",
+    "route": "/aanbieder-heerlijkehuisjes/"
+  },
+  "cortenkiezer": {
+    "external_accepted": 0,
+    "note": "Only the standard TradeTracker.com campaign is accepted; no external campaign can be published."
+  }
+}

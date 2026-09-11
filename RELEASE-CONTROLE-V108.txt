@@ -1,0 +1,14 @@
+CampingKiezer V108 — zonnige homepage en alle feedaanbieders
+
+Releasecontrole
+- Alle 17 aanbieders met een actuele productfeed staan als keuze op de homepage.
+- De kaarten verwijzen eerst naar de eigen aanbiederspagina van CampingKiezer.
+- De homepage heeft één nieuwe brede foto als achtergrond.
+- De drie bovenste fotokaarten zijn vervangen door zonnige, unieke reisfoto's.
+- De vijf verblijfscategorieën hebben ieder een eigen zonnige foto.
+- Zes themablokken en twaalf vakantiewensen hebben ieder een eigen foto.
+- Totaal zijn 27 nieuwe fotorealistische beelden verwerkt.
+- Het oude generieke fotolabel is uit alle zichtbare sitecontent verwijderd.
+- Foto's op individuele campingprofielen zijn niet vervangen.
+- De bestaande link-, partner-, campagne- en feedvalidaties blijven actief.
+- De V108-validator controleert bij iedere Netlify-build de 17 aanbieders, 27 beelden, hero en fotolabels.

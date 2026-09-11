@@ -1,0 +1,282 @@
+# SEO migrations
+/camping slug=:slug  /camping/:slug/  301
+/camping  /zoeken  301
+
+# v16 legacy region URL normalization
+/regios/drenthe.html  /regios/drenthe/  301
+/regios/flevoland.html  /regios/flevoland/  301
+/regios/friesland.html  /regios/friesland/  301
+/regios/gelderland.html  /regios/gelderland/  301
+/regios/groningen.html  /regios/groningen/  301
+/regios/limburg.html  /regios/limburg/  301
+/regios/nederland.html  /regios/nederland/  301
+/regios/noord-brabant.html  /regios/noord-brabant/  301
+/regios/noord-holland.html  /regios/noord-holland/  301
+/regios/overijssel.html  /regios/overijssel/  301
+/regios/utrecht.html  /regios/utrecht/  301
+/regios/zeeland.html  /regios/zeeland/  301
+/regios/zuid-holland.html  /regios/zuid-holland/  301
+
+/uitgelicht /uitgelicht/ 301
+
+# v40 provider directories
+/aanbieders /aanbieders/ 301
+/aanbieders/acsi-reizen /aanbieders/acsi-reizen/ 301
+/aanbieders/allcamps /aanbieders/allcamps/ 301
+/aanbieders/bungalow-net /aanbieders/bungalow-net/ 301
+/aanbieders/campings-com /aanbieders/campings-com/ 301
+/aanbieders/suncamp /aanbieders/suncamp/ 301
+/aanbieders/vipio /aanbieders/vipio/ 301
+/aanbieders/ackersate /aanbieders/ackersate/ 301
+/aanbieders/acsi-eurocampings /aanbieders/acsi-eurocampings/ 301
+/aanbieders/ardoer /aanbieders/ardoer/ 301
+/aanbieders/beekse-bergen /aanbieders/beekse-bergen/ 301
+/aanbieders/de-boshoek /aanbieders/de-boshoek/ 301
+/aanbieders/de-vossenburcht /aanbieders/de-vossenburcht/ 301
+/aanbieders/dierenbos /aanbieders/dierenbos/ 301
+/aanbieders/europarcs /aanbieders/europarcs/ 301
+/aanbieders/farmcamps /aanbieders/farmcamps/ 301
+/aanbieders/glamping4all /aanbieders/glamping4all/ 301
+/aanbieders/gusto-camp /aanbieders/gusto-camp/ 301
+/aanbieders/landgoed-ruwinkel /aanbieders/landgoed-ruwinkel/ 301
+/aanbieders/tendi /aanbieders/tendi/ 301
+/aanbieders/vodatent /aanbieders/vodatent/ 301
+/aanbieders/zandstuve /aanbieders/zandstuve/ 301
+
+# v41 replaced camping slugs
+/camping/camping-prenger/ /camping/boarnshiem-kamperen-bij-de-boer/ 301
+/camping/boerderijcamping-de-oliepot/ /camping/boerencamping-half-hichtum/ 301
+/camping/minicamping-sterrenbos/ /camping/minicamping-de-grutte-earen/ 301
+/camping/stal-de-pagter-en-minicamping-hoogelande/ /camping/de-veenhoop/ 301
+/camping/camping-de-tjallen/ /camping/theetuin-de-welp/ 301
+/camping/camping-de-weyert/ /camping/camping-pasveer/ 301
+/camping/camping-spijkerboor/ /camping/mini-camping-haarsterveld/ 301
+/camping/familie-resort-avonturenpark-de-tovertuin/ /camping/minicamping-marsicht/ 301
+/camping/recreatiepark-de-huurne-b-v/ /camping/opeigenweg/ 301
+/camping/recreatiepark-kasteel-ooijen/ /camping/camping-rotandorp/ 301
+/camping/vakantiepark-de-katjeskelder/ /camping/camping-de-stjelp/ 301
+/camping/veluwsbospark/ /camping/jantina-hoeve/ 301
+/camping/natuurkampeerterrein-landgoed-het-jagershuis/ /camping/pieters-farm/ 301
+/camping/camping-de-witte-buizerd/ /camping/de-4-elementen/ 301
+/camping/minicamping-zwartenburg/ /camping/camping-de-wedze/ 301
+/camping/boerderijcamping-de-boegert/ /camping/de-wartenster/ 301
+/camping/minicamping-de-kering/ /camping/camping-welgelegen-workum/ 301
+/camping/camping-casita/ /camping/minicamping-nieuw-kempink/ 301
+/camping/minicamping-swart/ /camping/camping-de-vetweide/ 301
+/camping/foswert/ /camping/de-spijken-b-b-minicamping-kaarsmakerij/ 301
+/camping/schoonenberg/ /camping/de-hartjens-mini-camping/ 301
+/camping/landgoed-mariahoeve/ /camping/mini-camping-t-fleerhof/ 301
+/camping/nieuwe-buyl/ /camping/boerderijcamping-de-vlierhof/ 301
+/camping/distelheide/ /camping/erve-wisselink/ 301
+/camping/zanderdennen/ /camping/de-grote-bredelaar/ 301
+/camping/groesbeek/ /camping/camping-de-klos/ 301
+/camping/landgoed-quadenoord/ /camping/camping-de-zoete-aagt/ 301
+/camping/olthuys/ /camping/landgoed-den-heuvel/ 301
+/camping/landgoed-het-zand-hattemer-oldenburger/ /camping/t-meesterhuus/ 301
+/camping/lutje-kossink/ /camping/camping-t-zwaantje/ 301
+/camping/hessenoord/ /camping/camping-de-vijverhof/ 301
+/camping/nijveld/ /camping/nieuw-beekdal/ 301
+/camping/den-ouden-dam/ /camping/t-haller/ 301
+/camping/de-olde-lucashoeve/ /camping/de-happyfarm/ 301
+/camping/boxbergen/ /camping/nieuwhof/ 301
+/camping/twilhaar/ /camping/park-nieuwgrapendaal/ 301
+/camping/erve-de-meester/ /camping/camping-de-polmate/ 301
+/camping/de-biezen/ /camping/landgoedcamping/ 301
+/camping/het-leenderbos/ /camping/boerencamping-hoge-haren/ 301
+/camping/de-duiventoren/ /camping/camping-de-boomgaard/ 301
+/camping/de-lier/ /camping/de-grasplas/ 301
+/camping/landgoed-de-barendonk/ /camping/achterhoeks-goed/ 301
+/camping/t-beekdal/ /camping/oude-meulenbrugge/ 301
+/camping/de-knotwilg/ /camping/minicamping-warnstee-b-b/ 301
+/camping/bluewoods/ /camping/roerdinkhof-nl/ 301
+/camping/de-maasakker/ /camping/camping-brugginck/ 301
+/camping/gloeiend-groen/ /camping/mini-camping-t-bosch/ 301
+/camping/de-dennen/ /camping/camping-woltas/ 301
+/camping/voscheheugte/ /camping/camping-camperplaats-de-beerte/ 301
+/camping/de-kijl/ /camping/stichting-droomkinderen/ 301
+/camping/het-hunehuis/ /camping/camping-de-veenborg/ 301
+/camping/in-de-boomgaard/ /camping/camping-a-hoeve/ 301
+/camping/de-reidplum/ /camping/minicamping-bij-hotel-de-waalehof/ 301
+/camping/de-bekhofschans/ /camping/de-appelboerderij/ 301
+/camping/west-terschelling/ /camping/camping-biej-de-vogel/ 301
+/camping/de-lange-paal/ /camping/de-reuten/ 301
+/camping/middelpolle/ /camping/de-landerijen-recreatie/ 301
+/camping/aaster-uiltje/ /camping/boerderijcamping-hoeve-de-mertel/ 301
+/camping/buitenwedde/ /camping/camping-park-het-zwarte-water/ 301
+/camping/lettelbert/ /camping/wtjewel-minicamping/ 301
+/camping/landgoed-wilgenheerd/ /camping/mini-camping-de-tramhalte/ 301
+/camping/maarlandhoeve-natuurkampeerterrein/ /camping/camping-breehees/ 301
+/camping/de-slangenborg/ /camping/minicamping-brabants-buitenleven/ 301
+/camping/entourage/ /camping/landgoed-julianahoeve/ 301
+/camping/de-grutto/ /camping/svr-camping-aan-de-groene-papegaai/ 301
+/camping/de-ruigenhoek/ /camping/boerderijcamping-de-meet/ 301
+/camping/de-kleine-rug/ /camping/costakabrita/ 301
+/camping/hoeve-krekelberg/ /camping/camping-dennenburg/ 301
+/camping/landgoed-geijsteren/ /camping/hoeve-heikant/ 301
+/camping/klein-schoor/ /camping/rust-en-ruimte/ 301
+/camping/wega/ /camping/natuurkampeerterrein-de-maasakker/ 301
+/camping/klein-groenbergen/ /camping/de-gerrithoeve/ 301
+/camping/de-veenkuil/ /camping/de-kleine-abtshoeve/ 301
+/camping/de-altena/ /camping/an-t-knaal/ 301
+/camping/dasselaar/ /camping/camping-de-vergulde-hand/ 301
+/camping/veerhof/ /camping/minicamping-t-brenneke/ 301
+/camping/svr-de-grimberghoeve/ /camping/mini-camping-de-schijvenear/ 301
+/camping/svr-nieuw-romalo/ /camping/camperplaats-en-minicamping-t-skonste-plekske/ 301
+/camping/svr-van-der-burgh/ /camping/de-esrand/ 301
+/camping/svr-waleuk/ /camping/de-vrolijke-flierefluiter/ 301
+/camping/svr-costa-kabrita/ /camping/www-campingdesomerweij-nl/ 301
+/camping/svr-buitenplaats-drenthe/ /camping/mini-camping-de-zandley/ 301
+/camping/svr-regge-vallei/ /camping/de-leemskuilen/ 301
+/camping/svr-de-vinkenkamp/ /camping/verbindingsboerderij-de-koolberg/ 301
+/camping/svr-de-bolderik/ /camping/mini-camping-t-amans/ 301
+/camping/svr-de-oldenhove/ /camping/minicamping-stakkes-hoeve/ 301
+/camping/svr-camping-de-brummel/ /camping/het-denneke/ 301
+/camping/svr-minicamping-de-pollen/ /camping/mini-camping-de-hooiberg/ 301
+/camping/svr-minicamping-de-wolfskuil/ /camping/boerencamping-de-kei/ 301
+/camping/svr-camping-zonnehoeve/ /camping/kinderparadijs-hensbroek/ 301
+/camping/svr-camping-jachtlust/ /camping/camping-koegras/ 301
+/camping/svr-camping-noorthey/ /camping/hoeve-ons-lust/ 301
+
+# Consumer-first cleanup
+/uitgelicht/batch-2/ /uitgelicht/ 301
+/uitgelicht/ultra-broncontrole/ /uitgelicht/ 301
+/uitgelicht/ultra-broncontrole-v44/ /uitgelicht/ 301
+/uitgelicht/ultra-bewijs-v49/ /uitgelicht/ 301
+
+/verhuurder /zoeken 301
+
+# Non-visitor build material
+/tools/* /404.html 404!
+/scripts/* /404.html 404!
+/commercial/* /404.html 404!
+/internal-data/* /404.html 404!
+/internal-release-notes/* /404.html 404!
+/DEPLOY-* /404.html 404!
+/RELEASE-NOTES-* /404.html 404!
+/RELEASE-CONTROLE-* /404.html 404!
+/IMAGE-PROMPTS-* /404.html 404!
+/PARTNER-OPVOLGING-* /404.html 404!
+/PRODUCTFEED-AANVRAGEN-* /404.html 404!
+/CampingKiezer-V*-QA-* /404.html 404!
+/QA-REPORT-* /404.html 404!
+/SHA256-* /404.html 404!
+/V*-README* /404.html 404!
+/README-UPLOAD-* /404.html 404!
+/qa-v*.json /404.html 404!
+
+/camping/europarcs-kagerplassen/ /camping/camping-spijkerboor/ 301
+
+/camping/de-fruitgaard-noordbroek/ /camping/de-fruitgaard/ 301
+
+/camping/noorder-sandt/ /camping/ardoer-camping-t-noorder-sandt/ 301
+
+/camping/het-grote-bos/ /camping/rcn-vakantiepark-het-grote-bos/ 301
+
+/camping/camping-julianahoeve/ /camping/camping-beachresort-julianahoeve/ 301
+
+/camping/westhove/ /camping/ardoer-camping-westhove/ 301
+
+/camping/camping-duinoord/ /camping/camping-duinoord-ameland/ 301
+
+/camping/tempelhof/ /camping/camping-tempelhof/ 301
+
+/camping/camping-maarlandhoeve/ /camping/maarlandhoeve/ 301
+
+/camping/natuurkampeerterrein-den-oude-dam/ /camping/natuurkampeerterrein-den-ouden-dam/ 301
+
+/camping/natuurkampeerterrein-de-vrolijk/ /camping/natuurcamping-de-vrolijk/ 301
+
+/camping/natuurkampeerterrein-veluwe-bush-camp/ /camping/kriemelberg-bushcamp/ 301
+
+/camping/recreatiepark-n-kaps/ /camping/recreatiepark-kaps/ 301
+
+/camping/eurocamping-vessem-bv/ /camping/eurocamping-vessem/ 301
+
+/camping/camping-de-achterste-hoeve/ /camping/de-achterste-hoef-recreatiepark/ 301
+
+/camping/camping-de-veenhoop/ /camping/de-veenhoop/ 301
+
+/camping/camping-de-heidebloem/ /camping/de-heidebloem-recreatie/ 301
+
+/camping/de-ruimte/ /camping/camping-de-ruimte/ 301
+
+/camping/camping-den-blanken/ /camping/recreatiepark-den-blanken/ 301
+
+/camping/de-oase/ /camping/siblu-camping-de-oase/ 301
+
+/camping/marinapark-beach-resort-soal/ /camping/camping-it-soal/ 301
+
+/camping/de-scherpenhof/ /camping/recreatiepark-de-scherpenhof/ 301
+
+/camping/international/ /camping/camping-international/ 301
+
+/camping/het-groene-eiland/ /camping/capfun-groene-eiland/ 301
+
+/camping/familie-camping-de-belten/ /camping/capfun-de-belten/ 301
+
+/camping/hoek-van-holland/ /camping/camping-hoek-van-holland-ons-recreatieoord/ 301
+
+/camping/mini-camping-de-walnoot/ /camping/de-walnoot/ 301
+
+/camping/duinhoeve/ /camping/camping-duinhoeve-renesse/ 301
+
+/camping/callassande-roompot/ /camping/camping-callassande/ 301
+
+/camping/de-agnietenberg/ /camping/molecaten-park-de-agnietenberg/ 301
+
+/camping/zonnedorp/ /camping/vakantiepark-zonnedorp/ 301
+
+/camping/camping-duinrand/ /camping/boomgaardcamping-duinrand/ 301
+
+/camping/camping-de-betteld/ /camping/camping-de-betteld-zelhem/ 301
+
+/camping/camping-alleleijn/ /camping/landschapscamping-alleleyn/ 301
+
+/camping/camping-de-iepenhoeve/ /camping/de-iepenhoeve/ 301
+
+/camping/minicamping-de-leemskuilen/ /camping/de-leemskuilen/ 301
+
+/camping/de-veldhoek/ /camping/minicamping-de-veldhoek/ 301
+
+/camping/kempink/ /camping/minicamping-nieuw-kempink/ 301
+
+/camping/t-amans/ /camping/mini-camping-t-amans/ 301
+
+/camping/mini-camping-waayenburg/ /camping/waayenburg/ 301
+
+/camping/de-boschhof/ /camping/camping-de-boschhof/ 301
+
+/claim /claim-uw-camping/ 301
+/tips /kennisbank/ 301
+/voor-ketens /voor-ketens/ 301
+/voor-campings /voor-campings/ 301
+/partner-worden/ /voor-campings/ 301
+/camping/camping-vorrelveen/ /camping/charme-camping-vorrelveen/ 301
+/camping/recreatieboerderij-slachtehiem/ /camping/slachtehiem-plattelands-camping/ 301
+/camping/beleefboerderij-de-stelle/ /camping/beleefboerderij-en-camping-de-stelle/ 301
+/camping/stochemhoeve/ /camping/de-stochemhoeve/ 301
+
+# v77 canonical cleanup
+/faq.html /faq 301
+
+# v131 Search Console: oude profielslugs naar de actuele profielen
+/camping/minicamping-de-oosterweide/ /camping/camping-de-oosterweide/ 301
+/camping/de-wielewaal/ /camping/camping-de-wielewaal/ 301
+/privacy.html /privacy 301
+/over-ons.html /over-ons 301
+/voorwaarden.html /voorwaarden 301
+/cookies.html /cookies 301
+/contact.html /contact 301
+/zoeken.html /zoeken 301
+/favorieten.html /favorieten 301
+/hoe-we-verdienen.html /zakelijk/ 301
+/hoe-we-verdienen /zakelijk/ 301
+/credits.html /credits 301
+/dekking.html /dekking 301
+
+/index.html  /  301
+/camping.html  /zoeken  301
+/partner-worden/index.html  /voor-campings/  301
+/adverteren /adverteren/ 301
+/seizoensplaats-verhuren /seizoensplaats-verhuren/ 301
+/seizoensplaats-aangemeld /seizoensplaats-aangemeld/ 301

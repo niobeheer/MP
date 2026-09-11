@@ -1,0 +1,14 @@
+{
+  "version": "V110",
+  "checked_at": "2026-08-27",
+  "html_files": 4532,
+  "headers": 4529,
+  "header_claims": 4529,
+  "blocked_query_links": 0,
+  "broken_camp_3_jpg_references": 0,
+  "priority_profiles_with_unique_images": 8,
+  "registered_netlify_forms_expected": 5,
+  "missing_internal_assets": 0,
+  "comparison_script_restored": true,
+  "status": "passed"
+}

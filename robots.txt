@@ -1,0 +1,44 @@
+User-agent: *
+Disallow: /internal-data/
+Disallow: /internal-release-notes/
+Disallow: /data/
+Disallow: /zoeken?
+Disallow: /*?*fac=
+Disallow: /*?*aud=
+Disallow: /*?*kind=
+Disallow: /*?*prov=
+Disallow: /*?*stay=
+Disallow: /*?*commercial=
+Allow: /
+
+User-agent: GPTBot
+Disallow: /internal-data/
+Disallow: /internal-release-notes/
+Disallow: /data/
+Allow: /
+
+User-agent: ChatGPT-User
+Disallow: /internal-data/
+Disallow: /internal-release-notes/
+Disallow: /data/
+Allow: /
+
+User-agent: OAI-SearchBot
+Disallow: /internal-data/
+Disallow: /internal-release-notes/
+Disallow: /data/
+Allow: /
+
+User-agent: ClaudeBot
+Disallow: /internal-data/
+Disallow: /internal-release-notes/
+Disallow: /data/
+Allow: /
+
+User-agent: PerplexityBot
+Disallow: /internal-data/
+Disallow: /internal-release-notes/
+Disallow: /data/
+Allow: /
+
+Sitemap: https://camping-kiezer.nl/sitemap.xml

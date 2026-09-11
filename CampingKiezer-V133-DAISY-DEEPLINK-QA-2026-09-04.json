@@ -1,0 +1,94 @@
+{
+  "version": "V133",
+  "checked_at": "2026-09-04T19:43:40.409Z",
+  "media_id": "424678",
+  "approved_programs": 11,
+  "unique_provider_routes": 11,
+  "choices_expected": 52,
+  "live_or_static_programs_checked": 11,
+  "deeplinks_checked": 99,
+  "failures": 0,
+  "details": [],
+  "results": [
+    {
+      "program_id": "6815",
+      "name": "Dierenbos Vakantiepark - Libema",
+      "mode": "statische Daisycon-deeplinks",
+      "deeplinks_checked": 8
+    },
+    {
+      "program_id": "6813",
+      "name": "Lake Resort & Safari Resort Beekse Bergen",
+      "mode": "statische Daisycon-deeplinks",
+      "deeplinks_checked": 8
+    },
+    {
+      "program_id": "8921",
+      "name": "Landgoed Ruwinkel",
+      "mode": "statische Daisycon-deeplinks",
+      "deeplinks_checked": 4
+    },
+    {
+      "program_id": "15690",
+      "name": "UplandParcs (NL)",
+      "mode": "live Daisycon-feed",
+      "offers_checked": 1,
+      "feed_total": 1,
+      "deeplinks_checked": 1
+    },
+    {
+      "program_id": "15569",
+      "name": "Vipio",
+      "mode": "live Daisycon-feed",
+      "offers_checked": 12,
+      "feed_total": 1246,
+      "deeplinks_checked": 12
+    },
+    {
+      "program_id": "8995",
+      "name": "Glamping4all",
+      "mode": "statische Daisycon-deeplinks",
+      "deeplinks_checked": 6
+    },
+    {
+      "program_id": "15258",
+      "name": "Vodatent (NL)",
+      "mode": "live Daisycon-feed",
+      "offers_checked": 12,
+      "feed_total": 143,
+      "deeplinks_checked": 12
+    },
+    {
+      "program_id": "11126",
+      "name": "Bungalow.Net",
+      "mode": "live Daisycon-feed",
+      "offers_checked": 12,
+      "feed_total": 3288,
+      "deeplinks_checked": 12
+    },
+    {
+      "program_id": "16264",
+      "name": "Campings.com (NL)",
+      "mode": "live Daisycon-feed",
+      "offers_checked": 12,
+      "feed_total": 2636,
+      "deeplinks_checked": 12
+    },
+    {
+      "program_id": "15967",
+      "name": "Vodatent.com",
+      "mode": "live Daisycon-feed",
+      "offers_checked": 12,
+      "feed_total": 132,
+      "deeplinks_checked": 12
+    },
+    {
+      "program_id": "21545",
+      "name": "Tendi",
+      "mode": "live Daisycon-feed",
+      "offers_checked": 12,
+      "feed_total": 25,
+      "deeplinks_checked": 12
+    }
+  ]
+}

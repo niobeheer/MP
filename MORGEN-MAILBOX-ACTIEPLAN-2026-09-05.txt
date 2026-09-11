@@ -1,0 +1,26 @@
+TradeTracker-mailbox nalopen — vrijdag 5 september 2026
+
+Volgorde
+1. Goedkeuringen en beëindigingen: campagne, gekozen media/site, campagne-ID en status vastleggen.
+2. Berichten van adverteerders: beeld- en teksttoestemming, deeplinkregels, merkvoorwaarden en eventuele correctieverzoeken noteren.
+3. Productfeedmeldingen: feed-ID, laatste update, lege feeds, gewijzigde velden en afgekeurde productlinks controleren.
+4. Tracking en transacties: klikdata, openstaande transacties, afkeuringen en eventuele testtransactie controleren.
+5. Afwijzingen: reden vastleggen; alleen opnieuw aanvragen wanneer CampingKiezer aantoonbaar bij de doelgroep past.
+
+Per relevante mail bewaren
+- Netwerk en campagne
+- Juiste website/media
+- Campagne- of programma-ID
+- Commissie
+- Cookie-/meetduur
+- Deeplinks toegestaan
+- Productfeed beschikbaar
+- Beeldmateriaal toegestaan
+- Landen en doelgroep
+- Actie: verwerken, beantwoorden, opnieuw aanvragen of archiveren
+
+Prioriteit voor eerste sales vóór november
+- Frankrijk, Italië, Kroatië, Spanje, Duitsland en Oostenrijk eerst commercieel volgen.
+- Controleren welke pagina's uitgaande affiliateklikken krijgen.
+- Campagnes met klikken maar zonder boeking verbeteren op aanbod, prijsinformatie en call-to-action.
+- Geen onbewezen of niet-goedgekeurde partner als Onze keuze presenteren.

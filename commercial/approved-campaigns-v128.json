@@ -1,0 +1,394 @@
+{
+  "version": "V126",
+  "checked_at": "2026-09-04",
+  "scope": "alle op 4 september 2026 bekende en bevestigde CampingKiezer-campagnes",
+  "tradetracker_external_approved": 42,
+  "daisycon_approved_campaigns": 10,
+  "unique_public_providers": 49,
+  "homepage_choices": 37,
+  "our_choices": 49,
+  "providers": [
+    {
+      "campaign_id": "29886",
+      "name": "Ackersate.nl",
+      "feed_id": "1501781",
+      "route": "/aanbieders/ackersate/",
+      "network": "TradeTracker",
+      "integration": "product-feed"
+    },
+    {
+      "campaign_id": "30368",
+      "name": "ACSI Eurocampings.nl",
+      "feed_id": "1624201",
+      "route": "/aanbieders/acsi-eurocampings/",
+      "network": "TradeTracker",
+      "integration": "product-feed"
+    },
+    {
+      "campaign_id": "1852",
+      "name": "ACSIreizen.nl",
+      "feed_id": "1634850",
+      "route": "/aanbieders/acsi-reizen/",
+      "network": "TradeTracker",
+      "integration": "product-feed"
+    },
+    {
+      "campaign_id": "2657",
+      "name": "Allcamps.nl",
+      "feed_id": "2166132",
+      "route": "/aanbieders/allcamps/",
+      "network": "TradeTracker",
+      "integration": "product-feed"
+    },
+    {
+      "campaign_id": "39168",
+      "name": "Ardenparks-comblain.be",
+      "route": "/aanbieders/arden-parks-comblain/",
+      "network": "TradeTracker",
+      "integration": "tracking-link"
+    },
+    {
+      "campaign_id": "39165",
+      "name": "Ardenparks-durbuy.be",
+      "route": "/aanbieders/arden-parks-durbuy/",
+      "network": "TradeTracker",
+      "integration": "tracking-link"
+    },
+    {
+      "campaign_id": "589",
+      "name": "Ardoer.com",
+      "feed_id": "2554028",
+      "route": "/aanbieders/ardoer/",
+      "network": "TradeTracker",
+      "integration": "product-feed"
+    },
+    {
+      "program_id": "11126",
+      "name": "Bungalow.Net",
+      "integration": "product-feed",
+      "route": "/aanbieders/bungalow-net/",
+      "feed_count": 3257,
+      "network": "Daisycon"
+    },
+    {
+      "program_id": "16264",
+      "name": "Campings.com (NL)",
+      "integration": "product-feed",
+      "route": "/aanbieders/campings-com/",
+      "feed_count": 2765,
+      "network": "Daisycon"
+    },
+    {
+      "campaign_id": "17578",
+      "name": "Deboshoek.nl",
+      "feed_id": "1425497",
+      "route": "/aanbieders/de-boshoek/",
+      "network": "TradeTracker",
+      "integration": "product-feed"
+    },
+    {
+      "campaign_id": "15154",
+      "name": "Detweebruggen.nl",
+      "route": "/aanbieders/de-twee-bruggen/",
+      "network": "TradeTracker",
+      "integration": "tracking-link"
+    },
+    {
+      "campaign_id": "15663",
+      "name": "Devossenburcht.nl",
+      "feed_id": "735700",
+      "route": "/aanbieders/de-vossenburcht/",
+      "network": "TradeTracker",
+      "integration": "product-feed"
+    },
+    {
+      "program_id": "6815",
+      "name": "Dierenbos Vakantiepark - Libema",
+      "integration": "featured-deeplinks",
+      "route": "/aanbieders/dierenbos/",
+      "feed_count": 0,
+      "network": "Daisycon"
+    },
+    {
+      "campaign_id": "31300",
+      "name": "Easyatent.nl",
+      "feed_id": "2530953",
+      "route": "/aanbieders/easyatent/",
+      "network": "TradeTracker",
+      "integration": "product-feed"
+    },
+    {
+      "campaign_id": "39552",
+      "name": "eperwoud.nl",
+      "route": "/aanbieders/eperwoud/",
+      "network": "TradeTracker",
+      "integration": "tracking-link"
+    },
+    {
+      "campaign_id": "32702",
+      "name": "Europarcs.nl",
+      "feed_id": "2543782",
+      "route": "/aanbieders/europarcs/",
+      "network": "TradeTracker",
+      "integration": "product-feed"
+    },
+    {
+      "campaign_id": "12236",
+      "name": "FarmCamps.com",
+      "feed_id": "2433764",
+      "route": "/aanbieders/farmcamps/",
+      "network": "TradeTracker",
+      "integration": "product-feed"
+    },
+    {
+      "campaign_id": "32249",
+      "name": "Flevonatuur.nl",
+      "route": "/aanbieders/flevonatuur/",
+      "network": "TradeTracker",
+      "integration": "tracking-link"
+    },
+    {
+      "program_id": "8995",
+      "name": "Glamping4all",
+      "integration": "featured-deeplinks",
+      "route": "/aanbieders/glamping4all/",
+      "feed_count": 0,
+      "network": "Daisycon"
+    },
+    {
+      "campaign_id": "1217",
+      "name": "Gustocamp.nl",
+      "feed_id": "2378774",
+      "route": "/aanbieders/gusto-camp/",
+      "network": "TradeTracker",
+      "integration": "product-feed"
+    },
+    {
+      "campaign_id": "14070",
+      "name": "Kampeerwereld.nl",
+      "feed_id": "912905",
+      "route": "/aanbieders/kampeerwereld/",
+      "network": "TradeTracker",
+      "integration": "product-feed"
+    },
+    {
+      "campaign_id": "41107",
+      "name": "Koeksebelt.nl",
+      "route": "/aanbieders/koeksebelt/",
+      "network": "TradeTracker",
+      "integration": "tracking-link"
+    },
+    {
+      "program_id": "6813",
+      "name": "Lake Resort & Safari Resort Beekse Bergen",
+      "integration": "featured-deeplinks",
+      "route": "/aanbieders/beekse-bergen/",
+      "feed_count": 0,
+      "network": "Daisycon"
+    },
+    {
+      "program_id": "8921",
+      "name": "Landgoed Ruwinkel",
+      "integration": "featured-deeplinks",
+      "route": "/aanbieders/landgoed-ruwinkel/",
+      "feed_count": 0,
+      "network": "Daisycon"
+    },
+    {
+      "campaign_id": "27046",
+      "name": "Leistert.nl",
+      "feed_id": "1257652",
+      "route": "/aanbieders/leistert/",
+      "network": "TradeTracker",
+      "integration": "product-feed"
+    },
+    {
+      "campaign_id": "30667",
+      "name": "Lux-Camp.nl",
+      "feed_id": "2218660",
+      "route": "/aanbieders/lux-camp/",
+      "network": "TradeTracker",
+      "integration": "product-feed"
+    },
+    {
+      "campaign_id": "2857",
+      "name": "Molecaten.nl",
+      "route": "/aanbieders/molecaten/",
+      "network": "TradeTracker",
+      "integration": "tracking-link"
+    },
+    {
+      "campaign_id": "34001",
+      "name": "Norgerberg.nl",
+      "feed_id": "1857414",
+      "route": "/aanbieders/norgerberg/",
+      "network": "TradeTracker",
+      "integration": "product-feed"
+    },
+    {
+      "campaign_id": "32248",
+      "name": "Ommerland.nl",
+      "feed_id": "2230178",
+      "route": "/aanbieders/ommerland/",
+      "network": "TradeTracker",
+      "integration": "product-feed"
+    },
+    {
+      "campaign_id": "19098",
+      "name": "RCN.nl",
+      "feed_id": "2004232",
+      "route": "/aanbieders/rcn/",
+      "network": "TradeTracker",
+      "integration": "product-feed"
+    },
+    {
+      "campaign_id": "32247",
+      "name": "Samoza.nl",
+      "route": "/aanbieders/samoza/",
+      "network": "TradeTracker",
+      "integration": "tracking-link"
+    },
+    {
+      "campaign_id": "1854",
+      "name": "Suncamp.nl",
+      "feed_id": "1163607",
+      "route": "/aanbieders/suncamp/",
+      "network": "TradeTracker",
+      "integration": "product-feed"
+    },
+    {
+      "program_id": "21545",
+      "name": "Tendi",
+      "integration": "product-feed",
+      "route": "/aanbieders/tendi/",
+      "feed_count": 25,
+      "network": "Daisycon"
+    },
+    {
+      "campaign_id": "30138",
+      "name": "TopParken.nl",
+      "feed_id": "2412602",
+      "route": "/aanbieders/topparken/",
+      "network": "TradeTracker",
+      "integration": "product-feed"
+    },
+    {
+      "program_id": "15569",
+      "name": "Vipio",
+      "integration": "product-feed",
+      "route": "/aanbieders/vipio/",
+      "feed_count": 1245,
+      "network": "Daisycon"
+    },
+    {
+      "program_id": "15967",
+      "name": "Vodatent.com",
+      "integration": "audited-alternative-brand-feed",
+      "route": "/aanbieders/vodatent/",
+      "feed_count": 132,
+      "note": "Niet als tweede merkpagina getoond; de Nederlandstalige Vodatent-feed 15258 is de primaire bron.",
+      "network": "Daisycon"
+    },
+    {
+      "campaign_id": "6475",
+      "name": "Zandstuve.nl",
+      "feed_id": "1449416",
+      "route": "/aanbieders/zandstuve/",
+      "network": "TradeTracker",
+      "integration": "product-feed"
+    },
+    {
+      "campaign_id": "29305",
+      "name": "Krieghuusbelten.nl",
+      "route": "/aanbieders/krieghuusbelten/",
+      "network": "TradeTracker",
+      "integration": "tracking-link"
+    },
+    {
+      "campaign_id": "29530",
+      "name": "Dewitteberg.nl",
+      "route": "/aanbieders/de-witte-berg/",
+      "network": "TradeTracker",
+      "integration": "tracking-link"
+    },
+    {
+      "campaign_id": "31854",
+      "name": "Webshop.acsi.eu",
+      "route": "/aanbieders/webshop-acsi/",
+      "network": "TradeTracker",
+      "integration": "tracking-link"
+    },
+    {
+      "campaign_id": "33066",
+      "name": "Kleinewolf.nl",
+      "route": "/aanbieders/kleine-wolf/",
+      "network": "TradeTracker",
+      "integration": "tracking-link"
+    },
+    {
+      "campaign_id": "33501",
+      "name": "Beerzebulten.nl",
+      "route": "/aanbieders/beerze-bulten/",
+      "network": "TradeTracker",
+      "integration": "tracking-link"
+    },
+    {
+      "campaign_id": "33666",
+      "name": "Kompascamping.be",
+      "route": "/aanbieders/kompas-camping/",
+      "network": "TradeTracker",
+      "integration": "tracking-link"
+    },
+    {
+      "campaign_id": "34373",
+      "name": "JetCamp.com",
+      "route": "/aanbieders/jetcamp/",
+      "network": "TradeTracker",
+      "integration": "tracking-link"
+    },
+    {
+      "campaign_id": "34610",
+      "name": "ACSIVerzekeringen.nl",
+      "route": "/aanbieders/acsi-verzekeringen/",
+      "network": "TradeTracker",
+      "integration": "tracking-link"
+    },
+    {
+      "campaign_id": "35166",
+      "name": "Sandberghe.nl",
+      "route": "/aanbieders/sandberghe/",
+      "network": "TradeTracker",
+      "integration": "tracking-link"
+    },
+    {
+      "campaign_id": "35552",
+      "name": "Campings.com NL",
+      "route": "/aanbieders/campings-com/",
+      "network": "TradeTracker",
+      "integration": "tracking-link"
+    },
+    {
+      "campaign_id": "38299",
+      "name": "Watersnip.nl",
+      "route": "/aanbieders/watersnip/",
+      "network": "TradeTracker",
+      "integration": "tracking-link"
+    },
+    {
+      "campaign_id": "40561",
+      "name": "Wetona.nl",
+      "route": "/aanbieders/wetona/",
+      "network": "TradeTracker",
+      "integration": "tracking-link"
+    },
+    {
+      "campaign_id": "917",
+      "name": "Familyholidays.nl",
+      "route": "/aanbieders/family-holidays/",
+      "network": "TradeTracker",
+      "integration": "tracking-link"
+    }
+  ],
+  "tradetracker_real_partner_campaigns": 41,
+  "tradetracker_house_campaign_excluded": true
+}

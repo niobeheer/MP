@@ -1,0 +1,8 @@
+CampingKiezer V123
+
+- Alle 29 externe goedgekeurde TradeTracker-campagnes verwerkt.
+- Nieuw: Flevonatuur, Kampeerwereld Hendriks, De Koeksebelt, Vakantiepark Ommerland en Samoza.
+- RCN is al goedgekeurd voor CampingKiezer en blijft via de bestaande aanbiederspagina en feed actief.
+- Onze keuzes staat bovenaan de homepage en bevat 26 kaarten met lokale afbeeldingen.
+- Geen netwerknaam of technische campagnetekst op de consumentenpagina’s.
+- Home-link en particuliere chalet/stacaravan/caravan-aanbieding blijven aanwezig.

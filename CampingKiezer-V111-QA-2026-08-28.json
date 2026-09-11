@@ -1,0 +1,40 @@
+{
+  "version": "V111",
+  "base_version": "V110",
+  "checked_at": "2026-08-28",
+  "scope": [
+    "/tarieven/",
+    "/voor-campings/",
+    "/voor-ketens/",
+    "/zakelijk/",
+    "/claim-uw-camping/"
+  ],
+  "tariffs_ex_vat": {
+    "basis": "gratis",
+    "plus_month": 29,
+    "plus_year": 290,
+    "pro_month": 79,
+    "pro_year": 790,
+    "group_2_10_month": 199,
+    "group_2_10_year": 1990,
+    "chain_11_50_month": 599,
+    "chain_11_50_year": 5990,
+    "enterprise_51_plus_month": 1495,
+    "enterprise_51_plus_year": 14950
+  },
+  "checks": {
+    "old_tariffs_absent": true,
+    "all_new_tariffs_present": true,
+    "claim_form_updated": true,
+    "free_standard_profile_image": true,
+    "custom_media_paid_only": true,
+    "chain_cta_updated": true,
+    "paid_organic_ranking_guarantee_absent": true,
+    "html_files_checked": 4511,
+    "links_checked": 233932,
+    "link_failures": 0,
+    "missing_internal_assets": 0,
+    "seo_v110_regression_check": "passed"
+  },
+  "status": "passed"
+}

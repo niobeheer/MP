@@ -1,0 +1,37 @@
+{
+  "release": "CampingKiezer V109",
+  "date": "2026-08-27",
+  "base_release": "V108",
+  "scope": "Gerichte indexatie, CTR, interne links en behoud zonnige homepage",
+  "counts": {
+    "html_files": 4511,
+    "internal_links_checked": 229423,
+    "broken_internal_links": 0,
+    "noindex_before": 45,
+    "noindex_after": 43,
+    "intentional_redirected_noindex": 29,
+    "sitemap_files_including_index": 12,
+    "sitemap_page_urls": 4468,
+    "duplicate_titles": 0,
+    "duplicate_descriptions": 0,
+    "duplicate_canonicals": 0,
+    "missing_internal_assets": 0,
+    "homepage_blocked_filter_links": 0
+  },
+  "content_changes": {
+    "province_pages_enriched": 12,
+    "priority_theme_pages_enriched": 12,
+    "priority_profiles_strengthened": 8,
+    "noindex_pages_restored": [
+      "https://camping-kiezer.nl/regios/nederland/",
+      "https://camping-kiezer.nl/themas/adults-only/"
+    ],
+    "mass_combination_pages_added": 0
+  },
+  "visuals": {
+    "v108_images_preserved": 27,
+    "hero_background_preserved": true,
+    "top_three_sunny_images_preserved": true
+  },
+  "validation": "passed"
+}

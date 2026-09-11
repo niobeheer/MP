@@ -1,0 +1,1979 @@
+[
+  {
+    "id": "ck0195",
+    "slug": "ardoer-camping-t-noorder-sandt",
+    "name": "Ardoer camping 't Noorder Sandt",
+    "city": "Julianadorp",
+    "province": "Noord-Holland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Basisplaats",
+      "Comfortplaats",
+      "Camperplaats",
+      "Glamping",
+      "Vakantieaccommodatie"
+    ],
+    "official_profile_url": "https://www.ardoer.com/nl/noordersandt",
+    "official_domain": "ardoer.com",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0196",
+    "slug": "ardoer-camping-westhove",
+    "name": "Ardoer Camping Westhove",
+    "city": "Domburg",
+    "province": "Zeeland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Comfortplaats",
+      "Camperplaats",
+      "Chalet"
+    ],
+    "official_profile_url": "https://www.ardoer.com/nl/westhove",
+    "official_domain": "ardoer.com",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0047",
+    "slug": "ardoer-vakantiepark-t-rheezerwold",
+    "name": "Ardoer Vakantiepark 't Rheezerwold",
+    "city": "Hardenberg",
+    "province": "Overijssel",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Comfort Luxe XL",
+      "Kampeerplaats met privé sanitair",
+      "Camperplaats met privé sanitair",
+      "Glamping",
+      "Seizoenplaats",
+      "Jaarplaats",
+      "Camperplaats",
+      "Tent",
+      "Caravan",
+      "Stacaravan",
+      "Hut of accommodatie"
+    ],
+    "official_profile_url": "https://www.ardoer.com/nl/rheezerwold",
+    "official_domain": "ardoer.com",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck1047",
+    "slug": "arnhem-vakantiepark-oostappen",
+    "name": "Arnhem Vakantiepark Oostappen",
+    "city": "Arnhem",
+    "province": "Gelderland",
+    "kind": "Camping",
+    "types": [
+      "Kampeerplaats",
+      "Tent",
+      "Caravan",
+      "Stacaravan"
+    ],
+    "official_profile_url": "https://www.oostappenvakantieparken.nl/arnhem",
+    "official_domain": "oostappenvakantieparken.nl",
+    "score": 6,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck1169",
+    "slug": "bospark-t-wolfsven",
+    "name": "Bospark 't Wolfsven",
+    "city": "Mierlo",
+    "province": "Noord-Brabant",
+    "kind": "Camping",
+    "types": [
+      "Kampeerplaats"
+    ],
+    "official_profile_url": "https://www.roompot.nl/vakantieparken/nederland/noord-brabant/bospark-t-wolfsven/",
+    "official_domain": "roompot.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0202",
+    "slug": "bospark-lunsbergen",
+    "name": "Bospark Lunsbergen",
+    "city": "Borger",
+    "province": "Drenthe",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats Comfort",
+      "Camperplaats Comfort",
+      "Safaritent",
+      "Kampeerplaats",
+      "Tent",
+      "Caravan",
+      "Hut of accommodatie"
+    ],
+    "official_profile_url": "https://www.roompot.nl/parken/bospark-lunsbergen",
+    "official_domain": "roompot.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0010",
+    "slug": "camping-t-wieskamp",
+    "name": "Camping 't Wieskamp",
+    "city": "Winterswijk/Henxel",
+    "province": "Gelderland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats met privé sanitair",
+      "Stacaravan",
+      "Kampeerplaats",
+      "Tent",
+      "Caravan"
+    ],
+    "official_profile_url": "https://www.capfun.nl/camping-frankrijk-gelderland-wieskamp-NL.html",
+    "official_domain": "capfun.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0208",
+    "slug": "camping-beachresort-julianahoeve",
+    "name": "Camping & Beachresort Julianahoeve",
+    "city": "Renesse",
+    "province": "Zeeland",
+    "kind": "Boerderijcamping",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Kampeerplaats met privé sanitair",
+      "Luxe camperplaats XL met privé sanitair",
+      "Chalet",
+      "Safaritent",
+      "Lodge"
+    ],
+    "official_profile_url": "https://www.ardoer.com/nl/julianahoeve",
+    "official_domain": "ardoer.com",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck3774",
+    "slug": "camping-amsterdam-forest",
+    "name": "Camping Amsterdam Forest",
+    "city": "Amstelveen",
+    "province": "Noord-Holland",
+    "kind": "Camping",
+    "types": [
+      "Kampeerplaats"
+    ],
+    "official_profile_url": "https://www.europarcs.nl/vakantieparken/nederland/noord-holland/het-amsterdamse-bos",
+    "official_domain": "europarcs.nl",
+    "score": 4,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0274",
+    "slug": "camping-de-holterberg",
+    "name": "Camping De Holterberg",
+    "city": "Holten",
+    "province": "Overijssel",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Comfortplaats",
+      "Luxe Comfortplaats",
+      "Kampeerplaats met privé sanitair",
+      "Camperplaats",
+      "Camperplaats met privé sanitair",
+      "Safaritent",
+      "Trekkershut",
+      "Chalet",
+      "Seizoenplaats",
+      "Jaarplaats"
+    ],
+    "official_profile_url": "https://www.ardoer.com/nl/holterberg",
+    "official_domain": "ardoer.com",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0288",
+    "slug": "camping-de-meulinge",
+    "name": "Camping De Meulinge",
+    "city": "Nieuwvliet",
+    "province": "Zeeland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Caravanplaats",
+      "Chalet"
+    ],
+    "official_profile_url": "https://www.ardoer.com/nl/meulinge",
+    "official_domain": "ardoer.com",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0292",
+    "slug": "camping-de-noetselerberg",
+    "name": "Camping de Noetselerberg",
+    "city": "Nijverdal",
+    "province": "Overijssel",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Comfortplaats",
+      "Kampeerplaats met privé sanitair",
+      "Camperplaats",
+      "Trekkersplaats",
+      "Glamping",
+      "Safarilodge",
+      "Woodlodge",
+      "Lunalodge",
+      "Chalet"
+    ],
+    "official_profile_url": "https://www.ardoer.com/nl/noetselerberg",
+    "official_domain": "ardoer.com",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0306",
+    "slug": "camping-de-rotonde",
+    "name": "Camping De Rotonde",
+    "city": "Enspijk",
+    "province": "Gelderland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Chalet",
+      "Lodge",
+      "Tent",
+      "Caravan",
+      "Stacaravan",
+      "Hut of accommodatie"
+    ],
+    "official_profile_url": "https://www.capfun.nl/camping-frankrijk-gelderland-de_rotonde-NL.html",
+    "official_domain": "capfun.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0327",
+    "slug": "camping-de-zandhegge",
+    "name": "Camping De Zandhegge",
+    "city": "Emst",
+    "province": "Gelderland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Caravanplaats",
+      "Chalet",
+      "Seizoenplaats"
+    ],
+    "official_profile_url": "https://www.ardoer.com/nl/zandhegge",
+    "official_domain": "ardoer.com",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0328",
+    "slug": "camping-de-zandput",
+    "name": "Camping De Zandput",
+    "city": "Vrouwenpolder",
+    "province": "Zeeland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Huuraccommodatie",
+      "Vakantiehuisje",
+      "Safari tent"
+    ],
+    "official_profile_url": "https://www.roompot.nl/vakantieparken/nederland/zeeland/camping-de-zandput/",
+    "official_domain": "roompot.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0334",
+    "slug": "camping-dishoek",
+    "name": "Camping Dishoek",
+    "city": "Dishoek",
+    "province": "Zeeland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Huuraccommodatie",
+      "Vakantiehuisje",
+      "Tent",
+      "Caravan"
+    ],
+    "official_profile_url": "https://www.roompot.nl/vakantieparken/nederland/zeeland/camping-dishoek/",
+    "official_domain": "roompot.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0695",
+    "slug": "camping-duinrell",
+    "name": "Camping Duinrell",
+    "city": "Wassenaar",
+    "province": "Zuid-Holland",
+    "kind": "Camping / vakantiepark",
+    "types": [
+      "Kampeerplaats",
+      "Kampeerplaats met privé sanitair",
+      "Glamping",
+      "Lodgetent",
+      "Duingalow",
+      "Tent",
+      "Caravan"
+    ],
+    "official_profile_url": "https://www.duinrell.nl/vakantiepark/camping",
+    "official_domain": "duinrell.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0345",
+    "slug": "camping-en-speelpark-de-heldense-bossen",
+    "name": "Camping en Speelpark De Heldense Bossen",
+    "city": "Helden",
+    "province": "Limburg",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Comfortplaats",
+      "Supercomfortplaats",
+      "Kampeerplaats met privé sanitair",
+      "Camper",
+      "Tent",
+      "Caravan"
+    ],
+    "official_profile_url": "https://www.ardoer.com/nl/heldensebossen",
+    "official_domain": "ardoer.com",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck1682",
+    "slug": "camping-europarcs-marina-strandbad",
+    "name": "Camping EuroParcs Marina Strandbad",
+    "city": "Olburgen",
+    "province": "Gelderland",
+    "kind": "Camping",
+    "types": [
+      "Kampeerplaats"
+    ],
+    "official_profile_url": "https://www.europarcs.nl/vakantieparken/marina-strandbad/verblijven/kampeerplaats-comfort",
+    "official_domain": "europarcs.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0349",
+    "slug": "camping-ginsterveld",
+    "name": "Camping Ginsterveld",
+    "city": "Burgh-Haamstede",
+    "province": "Zeeland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Comfortplaats",
+      "Privé-sanitairplaats",
+      "Camperplaats",
+      "Glamping",
+      "Chalet",
+      "Lodge",
+      "Tent",
+      "Caravan",
+      "Hut of accommodatie"
+    ],
+    "official_profile_url": "https://www.ardoer.com/nl/ginsterveld",
+    "official_domain": "ardoer.com",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0007",
+    "slug": "camping-it-wiid",
+    "name": "Camping It Wiid",
+    "city": "Eernewoude",
+    "province": "Friesland",
+    "kind": "Camping / vakantiepark",
+    "types": [
+      "Kampeerplaats",
+      "Vakantiehuis op camping",
+      "Vakantiehuis bungalowpark",
+      "Tent",
+      "Caravan",
+      "Hut of accommodatie"
+    ],
+    "official_profile_url": "https://www.ardoer.com/nl/wiid",
+    "official_domain": "ardoer.com",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0375",
+    "slug": "camping-krieghuusbelten",
+    "name": "Camping Krieghuusbelten",
+    "city": "Raalte",
+    "province": "Overijssel",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Comfortplaats",
+      "Privé-sanitairplaats",
+      "Safaritent",
+      "Chalet",
+      "Lodge",
+      "Kampeerplaats",
+      "Tent",
+      "Caravan"
+    ],
+    "official_profile_url": "https://www.krieghuusbelten.nl/kamperen",
+    "official_domain": "krieghuusbelten.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck3851",
+    "slug": "camping-leuk",
+    "name": "Camping LEuK",
+    "city": "Lexmond",
+    "province": "Zuid-Holland",
+    "kind": "Camping",
+    "types": [
+      "Kampeerplaats"
+    ],
+    "official_profile_url": "https://www.topparken.nl/vakantieparken/resort-lexmond",
+    "official_domain": "topparken.nl",
+    "score": 5,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0696",
+    "slug": "camping-tempelhof",
+    "name": "Camping Tempelhof",
+    "city": "Callantsoog",
+    "province": "Noord-Holland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Comfortplaats",
+      "Privé-sanitairplaats",
+      "Tent",
+      "Caravan",
+      "Camperplaats",
+      "Chalet",
+      "Lodge"
+    ],
+    "official_profile_url": "https://www.ardoer.com/nl/tempelhof",
+    "official_domain": "ardoer.com",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0439",
+    "slug": "camping-zonneweelde",
+    "name": "Camping Zonneweelde",
+    "city": "Nieuwvliet-Bad",
+    "province": "Zeeland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Glamping",
+      "Lodge",
+      "Chalet",
+      "Vakantiehuis",
+      "Tent",
+      "Caravan",
+      "Stacaravan"
+    ],
+    "official_profile_url": "https://www.ardoer.com/nl/zonneweelde",
+    "official_domain": "ardoer.com",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0443",
+    "slug": "capfun-camping-rakelbos",
+    "name": "Capfun Camping Rakelbos",
+    "city": "Westelbeers",
+    "province": "Noord-Brabant",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Chalet",
+      "Stacaravan / mobile home",
+      "Kampeerplaats"
+    ],
+    "official_profile_url": "https://www.capfun.nl/camping-frankrijk-brabant-rakelbos-NL.html",
+    "official_domain": "capfun.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0444",
+    "slug": "capfun-de-belten",
+    "name": "Capfun de Belten",
+    "city": "Rheeze",
+    "province": "Overijssel",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Stacaravan / mobile home",
+      "Chalet"
+    ],
+    "official_profile_url": "https://www.capfun.nl/camping-frankrijk-overijssel-de_belten-NL.html",
+    "official_domain": "capfun.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0445",
+    "slug": "capfun-groene-eiland",
+    "name": "Capfun Groene Eiland",
+    "city": "Appeltern",
+    "province": "Gelderland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Camperplaats",
+      "Kampeerplaats",
+      "Tent",
+      "Caravan",
+      "Stacaravan",
+      "Hut of accommodatie"
+    ],
+    "official_profile_url": "https://www.capfun.nl/camping-frankrijk-gelderland-groene_eiland-NL.html",
+    "official_domain": "capfun.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0016",
+    "slug": "capfun-ijsselstrand",
+    "name": "Capfun IJsselstrand",
+    "city": "Doesburg",
+    "province": "Gelderland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Stacaravan"
+    ],
+    "official_profile_url": "https://www.capfun.nl/camping-frankrijk-gelderland-ijsselstrand-NL.html",
+    "official_domain": "capfun.nl",
+    "score": 6,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0378",
+    "slug": "camping-linberg-park",
+    "name": "Capfun Wondermolen",
+    "city": "Molenschot",
+    "province": "Noord-Brabant",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Chalet",
+      "Stacaravan",
+      "Stacaravan / mobile home",
+      "Kampeerplaats"
+    ],
+    "official_profile_url": "https://www.capfun.nl/camping-frankrijk-brabant-wondermolen-NL.html",
+    "official_domain": "capfun.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0460",
+    "slug": "cnossen-leekstermeer",
+    "name": "Cnossen Leekstermeer",
+    "city": "Nietap",
+    "province": "Drenthe",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Chalet",
+      "Tent",
+      "Caravan",
+      "Hut of accommodatie"
+    ],
+    "official_profile_url": "https://www.ardoer.com/nl/cnossenleekstermeer",
+    "official_domain": "ardoer.com",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0465",
+    "slug": "de-haeghehorst",
+    "name": "De Haeghehorst",
+    "city": "Ermelo",
+    "province": "Gelderland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Bungalow",
+      "Tent",
+      "Caravan"
+    ],
+    "official_profile_url": "https://haeghehorst.ardoer.com/nl/",
+    "official_domain": "haeghehorst.ardoer.com",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0471",
+    "slug": "de-kuilart",
+    "name": "De Kuilart",
+    "city": "Koudum",
+    "province": "Friesland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Tent",
+      "Vouwwagen",
+      "Caravan",
+      "Camper",
+      "Kampeerplaats",
+      "Kampeerplaats met privé sanitair",
+      "Vakantiehuis",
+      "Stacaravan",
+      "Watervilla"
+    ],
+    "official_profile_url": "https://www.ardoer.com/nl/kuilart",
+    "official_domain": "ardoer.com",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0481",
+    "slug": "de-wijde-blick",
+    "name": "De Wijde Blick",
+    "city": "Renesse",
+    "province": "Zeeland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Bungalow",
+      "Kampeerplaats",
+      "Huuraccommodatie"
+    ],
+    "official_profile_url": "https://www.molecaten.nl/wijde-blick",
+    "official_domain": "molecaten.nl",
+    "score": 6,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0489",
+    "slug": "europarcs-bad-hoophuizen",
+    "name": "EuroParcs Bad Hoophuizen",
+    "city": "Hulshorst",
+    "province": "Gelderland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Tent",
+      "Caravan",
+      "Camper",
+      "Chalet"
+    ],
+    "official_profile_url": "https://www.europarcs.nl/vakantieparken/bad-hoophuizen",
+    "official_domain": "europarcs.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0046",
+    "slug": "europarcs-buitenhuizen",
+    "name": "EuroParcs Buitenhuizen",
+    "city": "Velsen-Zuid",
+    "province": "Noord-Holland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Camperplaats",
+      "Vakantiehuis",
+      "Kampeerplaats",
+      "Chalet"
+    ],
+    "official_profile_url": "https://www.europarcs.nl/vakantieparken/buitenhuizen",
+    "official_domain": "europarcs.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0490",
+    "slug": "europarcs-de-wije-werelt",
+    "name": "EuroParcs De Wije Werelt",
+    "city": "Otterlo",
+    "province": "Gelderland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Comfortplaats",
+      "Kampeerplaats privé sanitair",
+      "Tent",
+      "Caravan",
+      "Camper",
+      "Kampeerplaats Comfort",
+      "Kampeerplaats Comfort XL",
+      "Kampeerplaats Comfort XL privésanitair",
+      "Chalet",
+      "Tiny house",
+      "Camperplaats",
+      "Hut of accommodatie"
+    ],
+    "official_profile_url": "https://www.europarcs.nl/vakantieparken/de-wije-werelt",
+    "official_domain": "europarcs.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0491",
+    "slug": "europarcs-de-zanding",
+    "name": "EuroParcs De Zanding",
+    "city": "Otterlo",
+    "province": "Gelderland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Chalet",
+      "Glamping",
+      "Vakantiehuis",
+      "Groepsaccommodatie",
+      "Pod / tiny house"
+    ],
+    "official_profile_url": "https://www.europarcs.nl/vakantieparken/de-zanding",
+    "official_domain": "europarcs.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0492",
+    "slug": "europarcs-enkhuizer-strand",
+    "name": "EuroParcs Enkhuizer Strand",
+    "city": "Enkhuizen",
+    "province": "Noord-Holland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Caravanplaats",
+      "Vakantiehuis"
+    ],
+    "official_profile_url": "https://www.europarcs.nl/vakantieparken/enkhuizer-strand",
+    "official_domain": "europarcs.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck2504",
+    "slug": "europarcs-gulperberg",
+    "name": "EuroParcs Gulperberg",
+    "city": "Gulpen",
+    "province": "Limburg",
+    "kind": "Camping",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Tent",
+      "Caravan",
+      "Hut of accommodatie"
+    ],
+    "official_profile_url": "https://www.europarcs.nl/vakantieparken/nederland/limburg/gulperberg",
+    "official_domain": "europarcs.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck2505",
+    "slug": "europarcs-het-amsterdamse-bos",
+    "name": "EuroParcs Het Amsterdamse Bos",
+    "city": "Amstelveen",
+    "province": "Noord-Holland",
+    "kind": "Camping",
+    "types": [
+      "Kampeerplaats"
+    ],
+    "official_profile_url": "https://www.europarcs.nl/vakantieparken/het-amsterdamse-bos/verblijven/kampeerplaats-comfort",
+    "official_domain": "europarcs.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck2506",
+    "slug": "europarcs-maasduinen",
+    "name": "EuroParcs Maasduinen",
+    "city": "Belfeld",
+    "province": "Limburg",
+    "kind": "Camping",
+    "types": [
+      "Kampeerplaats",
+      "Tent",
+      "Caravan"
+    ],
+    "official_profile_url": "https://www.europarcs.nl/vakantieparken/nederland/limburg/maasduinen/verblijven/kampeerplaats/kampeerplaats-comfort",
+    "official_domain": "europarcs.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck2507",
+    "slug": "europarcs-noordwijkse-duinen",
+    "name": "EuroParcs Noordwijkse Duinen",
+    "city": "Noordwijk",
+    "province": "Zuid-Holland",
+    "kind": "Camping",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Tent",
+      "Caravan"
+    ],
+    "official_profile_url": "https://www.europarcs.nl/vakantieparken/nederland/zuid-holland/noordwijkse-duinen?_gl=1*lxszuk*_ga*MTMxNTM2MjYzMS4xNzA1NTgwNzg5*_ga_FLVZT0NC5M*MTcwNTU5MTIzMi4yLjEuMTcwNTU5MTI3OC4xNC4wLjA.",
+    "official_domain": "europarcs.nl",
+    "score": 6,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0493",
+    "slug": "europarcs-poort-van-amsterdam",
+    "name": "EuroParcs Poort van Amsterdam",
+    "city": "Uitdam",
+    "province": "Noord-Holland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Vakantiehuis"
+    ],
+    "official_profile_url": "https://www.europarcs.nl/vakantieparken/poort-van-amsterdam",
+    "official_domain": "europarcs.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0494",
+    "slug": "europarcs-poort-van-maastricht",
+    "name": "EuroParcs Poort van Maastricht",
+    "city": "Valkenburg",
+    "province": "Limburg",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Tent",
+      "Caravan",
+      "Camper",
+      "Kampeerplaats",
+      "Camperplaats",
+      "Hut of accommodatie"
+    ],
+    "official_profile_url": "https://www.europarcs.nl/vakantieparken/poort-van-maastricht/verblijven/kampeerplaats-comfort",
+    "official_domain": "europarcs.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0495",
+    "slug": "europarcs-reestervallei",
+    "name": "EuroParcs Reestervallei",
+    "city": "IJhorst",
+    "province": "Overijssel",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Vakantiehuis",
+      "Kampeerplaats"
+    ],
+    "official_profile_url": "https://www.europarcs.nl/vakantieparken/reestervallei",
+    "official_domain": "europarcs.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0529",
+    "slug": "landclub-ruinen",
+    "name": "EuroParcs Ruinen",
+    "city": "Ruinen",
+    "province": "Drenthe",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Vakantiehuis",
+      "Kampeerplaats / campingaanbod",
+      "Kampeerplaats",
+      "Tent",
+      "Caravan",
+      "Hut of accommodatie"
+    ],
+    "official_profile_url": "https://www.europarcs.nl/vakantieparken/ruinen",
+    "official_domain": "europarcs.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0496",
+    "slug": "europarcs-veluwemeer",
+    "name": "EuroParcs Veluwemeer",
+    "city": "Nunspeet",
+    "province": "Gelderland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Vakantiehuis",
+      "Chalet",
+      "Tiny House",
+      "Glamping",
+      "Kampeerplaats"
+    ],
+    "official_profile_url": "https://www.europarcs.nl/vakantieparken/veluwemeer",
+    "official_domain": "europarcs.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck4111",
+    "slug": "europarcs-zuiderzee",
+    "name": "EuroParcs Zuiderzee",
+    "city": "Biddinghuizen",
+    "province": "Flevoland",
+    "kind": "Camping en vakantiepark",
+    "types": [
+      "Kampeerplaats",
+      "Tent",
+      "Caravan"
+    ],
+    "official_profile_url": "https://www.europarcs.nl/vakantieparken/zuiderzee",
+    "official_domain": "europarcs.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0526",
+    "slug": "klein-vink",
+    "name": "Klein Vink",
+    "city": "Arcen",
+    "province": "Limburg",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Caravanplaats",
+      "Chalet",
+      "Lodge",
+      "Bungalow",
+      "Groepsaccommodatie",
+      "Tent",
+      "Caravan",
+      "Stacaravan"
+    ],
+    "official_profile_url": "https://www.roompot.nl/parken/klein-vink",
+    "official_domain": "roompot.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0528",
+    "slug": "kustpark-egmond-aan-zee",
+    "name": "Kustpark Egmond aan Zee",
+    "city": "Egmond aan Zee",
+    "province": "Noord-Holland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Huuraccommodatie",
+      "Kampeerplaats"
+    ],
+    "official_profile_url": "https://www.roompot.nl/aanbiedingen/egmond-aan-zee/camping/?referer=ggle&gclid=Cj0KCQjw6s2IBhCnARIsAP8RfAi-wKFrGAp9Upeehj0GBvVdMpXhmytiLDCLF2_gOdky-ltR_yIz3gwaAmszEALw_wcB",
+    "official_domain": "roompot.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck2811",
+    "slug": "landal-rabbit-hill",
+    "name": "Landal Rabbit Hill",
+    "city": "Nieuw-Milligen",
+    "province": "Gelderland",
+    "kind": "Camping",
+    "types": [
+      "Kampeerplaats",
+      "Tent",
+      "Caravan",
+      "Hut of accommodatie"
+    ],
+    "official_profile_url": "https://www.landal.nl/parken/rabbit-hill",
+    "official_domain": "landal.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0018",
+    "slug": "marveld-recreatie",
+    "name": "Marveld Recreatie",
+    "city": "Groenlo",
+    "province": "Gelderland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Bungalow",
+      "Hotel",
+      "Camperplaats",
+      "Caravanplaats"
+    ],
+    "official_profile_url": "https://www.marveld.nl/zoek-en-boek",
+    "official_domain": "marveld.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0541",
+    "slug": "molecaten-park-t-hout",
+    "name": "Molecaten Park 't Hout",
+    "city": "Bakkeveen",
+    "province": "Friesland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Seizoenplaats",
+      "Vaste staanplaats",
+      "Chalet",
+      "Safaritent"
+    ],
+    "official_profile_url": "https://www.molecaten.nl/t-hout",
+    "official_domain": "molecaten.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0542",
+    "slug": "molecaten-park-bosbad-hoeven",
+    "name": "Molecaten Park Bosbad Hoeven",
+    "city": "Hoeven",
+    "province": "Noord-Brabant",
+    "kind": "Boerderijcamping",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Seizoenplaats",
+      "Vaste staanplaats",
+      "Chalet",
+      "Safaritent"
+    ],
+    "official_profile_url": "https://www.molecaten.nl/bosbad-hoeven",
+    "official_domain": "molecaten.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0051",
+    "slug": "molecaten-park-de-agnietenberg",
+    "name": "Molecaten Park de Agnietenberg",
+    "city": "Zwolle",
+    "province": "Overijssel",
+    "kind": "Camping / vakantiepark",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Seizoenplaats",
+      "Vaste staanplaats",
+      "Chalet",
+      "Tent",
+      "Caravan"
+    ],
+    "official_profile_url": "https://www.molecaten.nl/de-agnietenberg",
+    "official_domain": "molecaten.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0543",
+    "slug": "molecaten-park-de-koerberg",
+    "name": "Molecaten Park De Koerberg",
+    "city": "Heerde",
+    "province": "Gelderland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Seizoenplaats",
+      "Vaste staanplaats",
+      "Vakantiehuis",
+      "Chalet",
+      "Safaritent",
+      "Tent",
+      "Caravan",
+      "Hut of accommodatie"
+    ],
+    "official_profile_url": "https://www.molecaten.nl/de-koerberg",
+    "official_domain": "molecaten.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0544",
+    "slug": "molecaten-park-de-leemkule",
+    "name": "Molecaten Park De Leemkule",
+    "city": "Hattem",
+    "province": "Gelderland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Seizoenplaats",
+      "Vaste staanplaats",
+      "Vakantiehuis"
+    ],
+    "official_profile_url": "https://www.molecaten.nl/de-leemkule",
+    "official_domain": "molecaten.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0545",
+    "slug": "molecaten-park-flevostrand",
+    "name": "Molecaten Park Flevostrand",
+    "city": "Biddinghuizen",
+    "province": "Flevoland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Seizoenplaats",
+      "Vaste staanplaats",
+      "Chalet",
+      "Safaritent",
+      "Lodge"
+    ],
+    "official_profile_url": "https://www.molecaten.nl/flevostrand",
+    "official_domain": "molecaten.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0546",
+    "slug": "molecaten-park-het-landschap",
+    "name": "Molecaten Park Het Landschap",
+    "city": "Wateren",
+    "province": "Drenthe",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Vaste staanplaats"
+    ],
+    "official_profile_url": "https://www.molecaten.nl/het-landschap",
+    "official_domain": "molecaten.nl",
+    "score": 6,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0547",
+    "slug": "molecaten-park-kruininger-gors",
+    "name": "Molecaten Park Kruininger Gors",
+    "city": "Oostvoorne",
+    "province": "Zuid-Holland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Vaste staanplaats"
+    ],
+    "official_profile_url": "https://www.molecaten.nl/kruininger-gors",
+    "official_domain": "molecaten.nl",
+    "score": 6,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0548",
+    "slug": "molecaten-park-kuierpad",
+    "name": "Molecaten Park Kuierpad",
+    "city": "Wezuperbrug",
+    "province": "Drenthe",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Seizoenplaats",
+      "Vaste staanplaats",
+      "Vakantiehuis",
+      "Chalet",
+      "Safaritent",
+      "Camperplaats",
+      "Tent",
+      "Caravan",
+      "Stacaravan",
+      "Hut of accommodatie"
+    ],
+    "official_profile_url": "https://www.molecaten.nl/kuierpad",
+    "official_domain": "molecaten.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0549",
+    "slug": "molecaten-park-landgoed-ginkelduin",
+    "name": "Molecaten Park Landgoed Ginkelduin",
+    "city": "Leersum",
+    "province": "Utrecht",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Seizoenplaats",
+      "Vakantiehuis",
+      "Chalet",
+      "Safaritent",
+      "Caravanplaats",
+      "Glamping",
+      "Appartement",
+      "Groepsaccommodatie",
+      "Tent",
+      "Caravan"
+    ],
+    "official_profile_url": "https://www.molecaten.nl/landgoed-ginkelduin",
+    "official_domain": "molecaten.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0019",
+    "slug": "molecaten-park-landgoed-molecaten",
+    "name": "Molecaten Park Landgoed Molecaten",
+    "city": "Hattem",
+    "province": "Gelderland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Seizoenplaats",
+      "Vaste staanplaats",
+      "Vakantiehuis",
+      "Camperplaats",
+      "Caravanplaats",
+      "Chalet",
+      "Stacaravan / mobile home",
+      "Safaritent",
+      "Glamping",
+      "Appartement",
+      "Groepsaccommodatie",
+      "Tent",
+      "Caravan",
+      "Hut of accommodatie"
+    ],
+    "official_profile_url": "https://www.molecaten.nl/landgoed-molecaten",
+    "official_domain": "molecaten.nl",
+    "score": 6,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0550",
+    "slug": "molecaten-park-noordduinen",
+    "name": "Molecaten Park Noordduinen",
+    "city": "Katwijk aan Zee",
+    "province": "Zuid-Holland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Vakantiehuis",
+      "Chalet",
+      "Tent",
+      "Caravan"
+    ],
+    "official_profile_url": "https://www.molecaten.nl/noordduinen",
+    "official_domain": "molecaten.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0551",
+    "slug": "molecaten-park-rondeweibos",
+    "name": "Molecaten Park Rondeweibos",
+    "city": "Rockanje",
+    "province": "Zuid-Holland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Seizoenplaats",
+      "Vaste staanplaats",
+      "Chalet",
+      "Stacaravan"
+    ],
+    "official_profile_url": "https://www.molecaten.nl/rondeweibos",
+    "official_domain": "molecaten.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0552",
+    "slug": "molecaten-park-van-iterson",
+    "name": "Molecaten Park Van Iterson",
+    "city": "Rockanje",
+    "province": "Zuid-Holland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Vaste staanplaats"
+    ],
+    "official_profile_url": "https://www.molecaten.nl/van-iterson",
+    "official_domain": "molecaten.nl",
+    "score": 6,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0553",
+    "slug": "molecaten-park-waterbos",
+    "name": "Molecaten Park Waterbos",
+    "city": "Rockanje",
+    "province": "Zuid-Holland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Vaste staanplaats",
+      "Chalet",
+      "Safaritent",
+      "Lodge"
+    ],
+    "official_profile_url": "https://www.molecaten.nl/waterbos",
+    "official_domain": "molecaten.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0554",
+    "slug": "molecaten-park-waterdunen",
+    "name": "Molecaten Park Waterdunen",
+    "city": "Breskens",
+    "province": "Zeeland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Vakantiehuis",
+      "Safaritent",
+      "Tent",
+      "Caravan"
+    ],
+    "official_profile_url": "https://www.molecaten.nl/waterdunen",
+    "official_domain": "molecaten.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck3116",
+    "slug": "molengroet",
+    "name": "Molengroet",
+    "city": "Noord-Scharwoude",
+    "province": "Noord-Holland",
+    "kind": "Camping",
+    "types": [
+      "Kampeerplaats"
+    ],
+    "official_profile_url": "https://www.europarcs.nl/vakantieparken/nederland/noord-holland/molengroet",
+    "official_domain": "europarcs.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0042",
+    "slug": "rcn-de-flaasbloem",
+    "name": "RCN De Flaasbloem",
+    "city": "Chaam",
+    "province": "Noord-Brabant",
+    "kind": "Camping / vakantiepark",
+    "types": [
+      "Tent",
+      "Caravan",
+      "Camper",
+      "Glamping",
+      "Kampeerplaats",
+      "Camperplaats",
+      "Seizoenplaats"
+    ],
+    "official_profile_url": "https://www.rcn.nl/nl/vakantieparken/nederland/brabant/rcn-de-flaasbloem",
+    "official_domain": "rcn.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0572",
+    "slug": "rcn-de-jagerstee",
+    "name": "RCN De Jagerstee",
+    "city": "Epe",
+    "province": "Gelderland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats privé sanitair",
+      "Kampeerplaats",
+      "Camperplaats",
+      "Comfort kampeerplaats",
+      "Kampeerplaats met privé sanitair",
+      "Seizoenplaats",
+      "Bungalow"
+    ],
+    "official_profile_url": "https://www.rcn.nl/nl/vakantieparken/nederland/veluwe/rcn-de-jagerstee",
+    "official_domain": "rcn.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0573",
+    "slug": "rcn-de-potten",
+    "name": "RCN De Potten",
+    "city": "Offingawier",
+    "province": "Friesland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Kampeerplaats met privé sanitair",
+      "Kampeerhaven",
+      "Chalet",
+      "Waterwoning",
+      "Caravanplaats",
+      "Glamping",
+      "Vakantiehuis",
+      "Jaarplaats"
+    ],
+    "official_profile_url": "https://www.rcn.nl/nl/vakantieparken/nederland/friesland/rcn-de-potten",
+    "official_domain": "rcn.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0574",
+    "slug": "rcn-de-roggeberg",
+    "name": "RCN De Roggeberg",
+    "city": "Appelscha",
+    "province": "Friesland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Kampeerplaats met privé sanitair",
+      "Seizoenplaats",
+      "Kampeerchalet",
+      "Boshut",
+      "Bungalow",
+      "Safaritent",
+      "Stacaravan / mobile home",
+      "Jaarplaats"
+    ],
+    "official_profile_url": "https://www.rcn.nl/nl/vakantieparken/nederland/friesland/rcn-de-roggeberg",
+    "official_domain": "rcn.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0575",
+    "slug": "rcn-de-schotsman",
+    "name": "RCN De Schotsman",
+    "city": "Kamperland",
+    "province": "Zeeland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Comfortplaats",
+      "Camperplaats",
+      "Privé-sanitairplaats",
+      "Seizoenplaats",
+      "Tent",
+      "Caravan"
+    ],
+    "official_profile_url": "https://www.rcn.nl/nl/vakantieparken/nederland/zeeland/rcn-de-schotsman",
+    "official_domain": "rcn.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0576",
+    "slug": "rcn-toppershoedje",
+    "name": "RCN Toppershoedje",
+    "city": "Ouddorp",
+    "province": "Zuid-Holland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Privé-sanitairplaats",
+      "Glamping",
+      "Chalet"
+    ],
+    "official_profile_url": "https://www.rcn.nl/nl/vakantieparken/nederland/zuid-holland/rcn-toppershoedje",
+    "official_domain": "rcn.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0577",
+    "slug": "rcn-vakantiepark-de-noordster",
+    "name": "RCN Vakantiepark de Noordster",
+    "city": "Dwingeloo",
+    "province": "Drenthe",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Seizoenplaats",
+      "Safaritent",
+      "Chalet",
+      "Bungalow",
+      "Tent",
+      "Caravan",
+      "Hut of accommodatie"
+    ],
+    "official_profile_url": "https://www.rcn.nl/nl/vakantieparken/nederland/drenthe/rcn-de-noordster",
+    "official_domain": "rcn.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0578",
+    "slug": "rcn-vakantiepark-het-grote-bos",
+    "name": "RCN vakantiepark Het Grote Bos",
+    "city": "Doorn",
+    "province": "Utrecht",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Privé-sanitairplaats",
+      "Safaritent",
+      "Chalet",
+      "Bungalow",
+      "Tent",
+      "Caravan",
+      "Hut of accommodatie"
+    ],
+    "official_profile_url": "https://www.rcn.nl/nl/vakantieparken/nederland/utrecht/rcn-het-grote-bos",
+    "official_domain": "rcn.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0691",
+    "slug": "rcn-zeewolde",
+    "name": "RCN Zeewolde",
+    "city": "Zeewolde",
+    "province": "Flevoland",
+    "kind": "Camping / vakantiepark",
+    "types": [
+      "kampeerplaats",
+      "camperplaats",
+      "Kampeerplaats",
+      "Camperplaats",
+      "Tent",
+      "Caravan"
+    ],
+    "official_profile_url": "https://www.rcn.nl/nl/vakantieparken/nederland/flevoland/rcn-zeewolde",
+    "official_domain": "rcn.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0593",
+    "slug": "recreatieoord-de-zandput",
+    "name": "Recreatieoord De Zandput",
+    "city": "Kapel Avezaath",
+    "province": "Gelderland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Stacaravan",
+      "Huuraccommodatie"
+    ],
+    "official_profile_url": "https://www.roompot.nl/parken/camping-de-zandput",
+    "official_domain": "roompot.nl",
+    "score": 6,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0616",
+    "slug": "recreatiepark-hunzedal",
+    "name": "Recreatiepark Hunzedal",
+    "city": "Borger",
+    "province": "Drenthe",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Stacaravan / mobile home",
+      "Safaritent",
+      "Glamping",
+      "Jaarplaats"
+    ],
+    "official_profile_url": "https://www.landal.nl/parken/vakantiepark-hunzedal/praktische-info",
+    "official_domain": "landal.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0617",
+    "slug": "recreatiepark-kaps",
+    "name": "Recreatiepark Kaps",
+    "city": "Tubbergen",
+    "province": "Overijssel",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Lodge"
+    ],
+    "official_profile_url": "https://www.ardoer.com/nl/kaps",
+    "official_domain": "ardoer.com",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck3419",
+    "slug": "resort-markermeer",
+    "name": "Resort Markermeer",
+    "city": "Bovenkarspel",
+    "province": "Noord-Holland",
+    "kind": "Camping",
+    "types": [
+      "Kampeerplaats"
+    ],
+    "official_profile_url": "https://www.europarcs.nl/vakantieparken/nederland/noord-holland/markermeer",
+    "official_domain": "europarcs.nl",
+    "score": 6,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0625",
+    "slug": "roompot-glamping-lauwerszee",
+    "name": "Roompot Glamping Lauwerszee",
+    "city": "Vierhuizen",
+    "province": "Groningen",
+    "kind": "Glamping met kampeerfunctie",
+    "types": [
+      "Tent",
+      "Glamping tent",
+      "Safari tent",
+      "Huuraccommodatie"
+    ],
+    "official_profile_url": "https://www.roompot.nl/bestemmingen/nederland/groningen/roompot-glamping-lauwersmeer/",
+    "official_domain": "roompot.nl",
+    "score": 6,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0637",
+    "slug": "strandpark-de-zeeuwse-kust",
+    "name": "Strandpark de Zeeuwse Kust",
+    "city": "Noordwelle",
+    "province": "Zeeland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Caravanplaats",
+      "Chalet",
+      "Glamping",
+      "Tent",
+      "Caravan",
+      "Hut of accommodatie"
+    ],
+    "official_profile_url": "https://www.ardoer.com/nl/zeeuwsekust",
+    "official_domain": "ardoer.com",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck3611",
+    "slug": "uitdam",
+    "name": "Uitdam",
+    "city": "",
+    "province": "",
+    "kind": "Camping",
+    "types": [
+      "Kampeerplaats"
+    ],
+    "official_profile_url": "https://www.europarcs.nl/vakantieparken/nederland/noord-holland/camping-en-jachthaven-uitdam",
+    "official_domain": "europarcs.nl",
+    "score": 4,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0643",
+    "slug": "vakantiecentrum-de-ullingse-bergen",
+    "name": "Vakantiecentrum De Ullingse Bergen",
+    "city": "Sint Anthonis",
+    "province": "Noord-Brabant",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Caravanplaats",
+      "Chalet",
+      "Vakantiehuis",
+      "Lodge",
+      "Tent",
+      "Caravan"
+    ],
+    "official_profile_url": "https://www.ardoer.com/nl/ullingsebergen",
+    "official_domain": "ardoer.com",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0023",
+    "slug": "vakantiedorp-de-jutberg",
+    "name": "Vakantiedorp De Jutberg",
+    "city": "Laag-Soeren",
+    "province": "Gelderland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Chalet",
+      "Glamping",
+      "Lodge"
+    ],
+    "official_profile_url": "https://www.ardoer.com/nl/jutberg",
+    "official_domain": "ardoer.com",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0647",
+    "slug": "vakantiepark-t-akkertien",
+    "name": "Vakantiepark 't Akkertien",
+    "city": "Vollenhove",
+    "province": "Overijssel",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Caravanplaats",
+      "Jaarplaats",
+      "Groepsaccommodatie",
+      "Tent",
+      "Caravan",
+      "Hut of accommodatie"
+    ],
+    "official_profile_url": "https://www.ardoer.com/nl/akkertien",
+    "official_domain": "ardoer.com",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0045",
+    "slug": "camping-callassande",
+    "name": "Vakantiepark Callassande",
+    "city": "Callantsoog",
+    "province": "Noord-Holland",
+    "kind": "Camping / vakantiepark",
+    "types": [
+      "Kampeerplaats",
+      "Lodge",
+      "Chalet"
+    ],
+    "official_profile_url": "https://www.landal.nl/parken/vakantiepark-callassande",
+    "official_domain": "landal.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0651",
+    "slug": "vakantiepark-capfun-de-eikenhof",
+    "name": "Vakantiepark Capfun de Eikenhof",
+    "city": "Paasloo",
+    "province": "Overijssel",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Camperplaats",
+      "Stacaravan / mobile home",
+      "Lodge"
+    ],
+    "official_profile_url": "https://www.capfun.nl/camping-frankrijk-overijssel-de_eikenhof-NL.html",
+    "official_domain": "capfun.nl",
+    "score": 6,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0652",
+    "slug": "vakantiepark-capfun-de-scheepsbel",
+    "name": "Vakantiepark Capfun de Scheepsbel",
+    "city": "Nunspeet",
+    "province": "Gelderland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Stacaravan / mobile home"
+    ],
+    "official_profile_url": "https://www.capfun.nl/camping-frankrijk-gelderland-de_scheepsbel-NL.html",
+    "official_domain": "capfun.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0693",
+    "slug": "vakantiepark-capfun-stoetenslagh",
+    "name": "Vakantiepark Capfun Stoetenslagh",
+    "city": "Rheezerveen",
+    "province": "Overijssel",
+    "kind": "Camping / vakantiepark",
+    "types": [
+      "Kampeerplaats",
+      "Tentplaats",
+      "Caravanplaats",
+      "Camperplaats",
+      "Stacaravan / mobile home"
+    ],
+    "official_profile_url": "https://www.capfun.nl/camping-nederland-overijssel-stoetenslagh-NL.html",
+    "official_domain": "capfun.nl",
+    "score": 6,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0653",
+    "slug": "vakantiepark-capfun-vlinderloo",
+    "name": "Vakantiepark Capfun Vlinderloo",
+    "city": "Enschede",
+    "province": "Overijssel",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Stacaravan",
+      "Chalet",
+      "Vakantiehuis",
+      "Kampeerplaats"
+    ],
+    "official_profile_url": "https://www.capfun.nl/camping-frankrijk-overijssel-vlinderloo-NL.html",
+    "official_domain": "capfun.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0004",
+    "slug": "vakantiepark-diana-heide-b-v",
+    "name": "Vakantiepark Diana Heide B.V.",
+    "city": "Amen",
+    "province": "Drenthe",
+    "kind": "Camping / vakantiepark",
+    "types": [
+      "Kampeerplaats",
+      "Comfortplaats",
+      "Comfortplaats XXL met privé sanitair",
+      "Chalet",
+      "Camperplaats",
+      "Glamping",
+      "Tent",
+      "Caravan",
+      "Hut of accommodatie"
+    ],
+    "official_profile_url": "https://www.ardoer.com/nl/dianaheide",
+    "official_domain": "ardoer.com",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck4196",
+    "slug": "vakantiepark-dierenbos",
+    "name": "Vakantiepark Dierenbos",
+    "city": "Vinkel",
+    "province": "Noord-Brabant",
+    "kind": "Camping / vakantiepark",
+    "types": [
+      "Kampeerplaats",
+      "Comfortplaats",
+      "Privé-sanitairplaats",
+      "Tent",
+      "Vakantiehuis"
+    ],
+    "official_profile_url": "https://www.dierenbos.nl/",
+    "official_domain": "dierenbos.nl",
+    "score": 6,
+    "verified_at": "2026-09-04"
+  },
+  {
+    "id": "ck0671",
+    "slug": "vakantiepark-hof-domburg-bv",
+    "name": "Vakantiepark Hof Domburg BV",
+    "city": "Domburg",
+    "province": "Zeeland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Camperplaats",
+      "Caravanplaats",
+      "Chalet",
+      "Stacaravan / mobile home",
+      "Safaritent",
+      "Glamping",
+      "Vakantiehuis",
+      "Appartement",
+      "Lodge",
+      "Bungalow",
+      "Groepsaccommodatie",
+      "Pod / tiny house",
+      "Kampeerplaats"
+    ],
+    "official_profile_url": "https://www.landal.nl/parken/hof-domburg",
+    "official_domain": "landal.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck3637",
+    "slug": "vakantiepark-hunzedal",
+    "name": "Vakantiepark Hunzedal",
+    "city": "Borger",
+    "province": "Drenthe",
+    "kind": "Camping",
+    "types": [
+      "Kampeerplaats"
+    ],
+    "official_profile_url": "https://www.roompot.nl/vakantieparken/nederland/drenthe/vakantiepark-hunzedal/",
+    "official_domain": "roompot.nl",
+    "score": 6,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0672",
+    "slug": "vakantiepark-kijkduinpark",
+    "name": "Vakantiepark Kijkduinpark",
+    "city": "Den Haag",
+    "province": "Zuid-Holland",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Huuraccommodatie",
+      "Chalet",
+      "Vakantiehuisje",
+      "Safari tent",
+      "Tent",
+      "Caravan"
+    ],
+    "official_profile_url": "https://www.roompot.nl/parken/vakantiepark-kijkduin",
+    "official_domain": "roompot.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck0676",
+    "slug": "vakantiepark-molke",
+    "name": "Vakantiepark Molke",
+    "city": "Zuna",
+    "province": "Overijssel",
+    "kind": "Camping / kampeerbedrijf",
+    "types": [
+      "Kampeerplaats",
+      "Glamping",
+      "Tent",
+      "Caravan",
+      "Stacaravan",
+      "Hut of accommodatie"
+    ],
+    "official_profile_url": "https://www.molke.nl/vakantiepark/receptie",
+    "official_domain": "molke.nl",
+    "score": 7,
+    "verified_at": "2026-08-25"
+  },
+  {
+    "id": "ck3682",
+    "slug": "waterpark-langelille",
+    "name": "Waterpark Langelille",
+    "city": "Langelille",
+    "province": "Friesland",
+    "kind": "Camping",
+    "types": [
+      "Kampeerplaats"
+    ],
+    "official_profile_url": "https://www.dormio.nl/resorts-hotels/dormio-waterpark-langelille",
+    "official_domain": "dormio.nl",
+    "score": 4,
+    "verified_at": "2026-08-25"
+  }
+]

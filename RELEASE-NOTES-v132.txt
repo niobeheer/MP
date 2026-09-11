@@ -1,0 +1,10 @@
+CampingKiezer v132 — Daisycon en Search Console — 2026-09-04
+
+- Alle 11 Daisycon-goedkeuringen voor media 424678 gecontroleerd.
+- UplandParcs (programma 15690) toegevoegd aan de productfeed, aanbiederspagina, aanbiedersoverzicht, sitemap en Onze keuzes.
+- 45 regionale thema-URL's vanuit de bijbehorende provinciepagina bereikbaar gemaakt.
+- Twee losse campingprofielen opnieuw intern gekoppeld.
+- Campings.com, Ardoer en Suncamp voorzien van vaste inhoud naast de dynamische feed.
+- Twee kennisbankartikelen extra intern gekoppeld.
+- 84 profielen met slechts 1 of 2 gecontroleerde informatiegroepen op noindex,follow gezet en uit de sitemaps verwijderd; ze blijven toegankelijk voor bezoekers.
+- De twee 404-redirects en FarmCamps-validaties uit v131 blijven behouden.

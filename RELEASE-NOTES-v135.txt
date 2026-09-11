@@ -1,0 +1,22 @@
+CampingKiezer v135 — profielversterking en sitebrede opschoning — 2026-09-04
+
+Zichtbare broodkruimels
+- 4.464 zichtbare broodkruimelpaden verwijderd, waaronder Home / Aanbieders / FarmCamps.
+- 0 zichtbare elementen met de class crumbs resterend.
+- BreadcrumbList-structured data bewust behouden voor zoekmachines.
+
+Campingprofielen
+- Alle 4.112 campingprofielen voorzien van een nieuwe persoonlijke keuzecheck.
+- 4.001 indexeerbare profielen en 111 bewust noindex-profielen versterkt.
+- Per profiel: dekking van bekende gegevens, verblijfsvormen, voorzieningen, prijs/boekingsstatus, contactstatus, officiële bronactie, vergelijken en regiokoppeling.
+- Onbekende gegevens blijven expliciet onbekend; er worden geen voorzieningen, prijzen of boekingsmogelijkheden verzonnen.
+
+Overige correcties
+- Dubbele tekst “Nederland en Europa en Europa” sitebreed gecorrigeerd.
+- FarmCamps-header en slider blijven verwijderd; toegestaan TradeTracker-feedbeeld blijft leidend.
+- Antwoordmail aan Judith toegevoegd met verzoek om recente liggende foto’s, heroafbeelding, campagnemateriaal, logo en merkrichtlijnen.
+
+Alles uit v134 blijft behouden
+- 42 goedgekeurde TradeTracker-partners.
+- 11 goedgekeurde Daisycon-programma's.
+- 20 Europese landen en 359 actuele campingresultaten met gecontroleerde deeplinks.

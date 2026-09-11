@@ -1,0 +1,18 @@
+CampingKiezer v125 — werkende Netlify-upload
+Datum: 1 september 2026
+
+Basis
+- Volledige v124-build behouden.
+- 37 aanbieders blijven aanwezig.
+- 26 keuzes met lokale afbeeldingen blijven bovenaan de homepage aanwezig.
+- Alle goedgekeurde TradeTracker- en Daisycon-koppelingen uit v124 blijven behouden.
+- Vergelijker, faciliteitenfilters, Home-link en particuliere seizoensplaatsaanmelding blijven behouden.
+
+Deployherstel
+- De volledige validatieketen wordt vóór oplevering lokaal uitgevoerd.
+- Netlify hoeft de validatieketen niet opnieuw tijdens de upload te draaien.
+- Netlify HTML-nabewerking is uitgeschakeld om vastlopen tijdens CDN-verwerking te voorkomen.
+- Netlify Functions blijven actief via de bestaande functions-map en esbuild-bundler.
+
+Publicatie
+- Dit is een volledige vervangende upload voor de publicatieroot van camping-kiezer.nl.

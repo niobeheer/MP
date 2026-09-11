@@ -1,0 +1,19 @@
+{
+  "version": 136,
+  "html": 4572,
+  "profiles": 4112,
+  "tracked_pages": 4572,
+  "parseable_schema_blocks": 8944,
+  "distinct_profile_summaries": 4112,
+  "duplicate_title_groups": 0,
+  "duplicates": [],
+  "metadata_warnings": [],
+  "failures": [],
+  "filter_logic": "PASS",
+  "filter_css": "PASS (static assertion, not rendered)",
+  "measurement_contract": "PASS (isolated fixture, not GA receipt)",
+  "live_feed_tests": "NOT COMPLETED: external requests did not finish",
+  "visual_browser_test": "NOT RUN: no local browser executable",
+  "analytics_activation": "BLOCKED: verified GA4 ID required",
+  "monthly_email": "NOT SCHEDULED: data connection and recipient required"
+}

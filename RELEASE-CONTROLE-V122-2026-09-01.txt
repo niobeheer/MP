@@ -1,0 +1,29 @@
+CampingKiezer V122 — releasecontrole — 1 september 2026
+
+Uitgevoerd
+- De oude kop over uitgelicht aanbod is verwijderd.
+- Onze keuzes staat direct onder de homepage-hero.
+- Home toont 21 keuzes; iedere keuze heeft een lokale, meegeleverde afbeelding.
+- De consumentenpagina's tonen geen netwerknamen of teksten over commerciële links.
+- Informatie over adverteren en tarieven staat binnen het zakelijke gedeelte.
+- De pagina over inkomsten verwijst voortaan naar Zakelijk.
+- Home is toegevoegd aan de hoofdnavigatie van alle normale HTML-pagina's.
+- Op de home staat een opvallend blok voor particuliere aanbiedingen.
+- Particulieren kunnen een chalet, stacaravan of caravan op een vaste plaats aanmelden.
+- Het formulier vraagt periode, prijs, camping, faciliteiten, foto's en toestemming van de camping.
+
+Technische controle
+- 4.526 HTML-bestanden aanwezig.
+- 4.523 normale pagina's met hoofdnavigatie; alle 4.523 bevatten Home.
+- 21 kaarten en 21 afbeeldingen op de home.
+- 21 kaarten en 21 afbeeldingen op Onze keuzes.
+- Alle keuze-afbeeldingen zijn lokaal aanwezig; geen externe hotlinks in deze twee selecties.
+- Geen ongewenste bezoekersteksten gevonden buiten het zakelijke gedeelte.
+- Interne linkcontrole: geen ontbrekende statische pagina's; één geldige dynamische Netlify-functieroute.
+- Particulier formulier bevat Netlify-formulierregistratie en een aparte bedankpagina.
+- 15 JavaScript-bestanden syntactisch geldig.
+- Stylesheet heeft gebalanceerde CSS-blokken.
+- Lokale HTTP-test gaf status 200 voor home, Onze keuzes, particulier aanbieden, Zakelijk, stylesheet en gebruikte afbeeldingen.
+
+Oplevering
+- Volledige Netlify-upload-ZIP; inhoud van de ZIP vormt de publicatieroot.

@@ -1,0 +1,4 @@
+CampingKiezer v129 — definitieve affiliatecontrole 2026-09-04
+- Portal: 43 geaccepteerd, waarvan 42 echte partnercampagnes en 1 interne TradeTracker-campagne.
+- Alle echte partnercampagnes staan op /onze-keuzes/.
+- Iedere TradeTracker-link bevat campagne-ID, media-ID en URL-gecodeerde bestemming.

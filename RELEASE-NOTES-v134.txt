@@ -1,0 +1,25 @@
+CampingKiezer v134 — TradeTracker-eindcontrole en Europese megaupdate — 2026-09-04
+
+TradeTracker
+- 42 echte goedgekeurde partnercampagnes verwerkt; de interne TradeTracker-huiscampagne is bewust uitgesloten.
+- Alle 42 campagnes hebben een bestaande aanbiedersroute en staan in de goedgekeurde partnersectie van Onze keuzes.
+- Alle links gebruiken CampingKiezer-site-ID 514819 en hebben een ingevulde bestemmings-URL.
+- 20 live productfeeds en 240 actuele feedaanbiedingen technisch getest.
+
+Campings in Europa
+- Nieuwe centrale pagina /europa/ met twintig landen.
+- Nieuwe landenpagina's voor Albanië, België, Denemarken, Duitsland, Frankrijk, Griekenland, Hongarije, Italië, Kroatië, Luxemburg, Montenegro, Noorwegen, Oostenrijk, Polen, Portugal, Slovenië, Spanje, Tsjechië, Zweden en Zwitserland.
+- 359 ontdubbelde, actuele campingresultaten uit ACSI Eurocampings, Allcamps, LuxCamp en Suncamp.
+- Elke camping heeft een directe TradeTracker-deeplink naar een Nederlandstalige boekingspartner.
+- Per land: zoekveld, aanbiederfilter, actuele prijs of prijscontrole, praktische vergelijkingspunten en affiliate-uitleg.
+- Europa-uitbreiding zichtbaar vanaf homepage, campingoverzicht en alle footers.
+- Alle 21 nieuwe indexeerbare URL's staan in sitemap-core.xml.
+
+Regressiecontrole
+- 4.568 HTML-pagina's en 255.420 interne links gecontroleerd: 0 fouten.
+- 359 Europese deeplinks gecontroleerd: 0 fouten.
+- 99 Daisycon-deeplinks opnieuw gecontroleerd: 0 fouten.
+- 0 noindex-URL's en 0 redirects in de sitemaps.
+
+Doel
+- De uitbreiding richt zich op koopgerichte zoekopdrachten per vakantieland en leidt bezoekers rechtstreeks naar actuele prijs en beschikbaarheid, met als commercieel doel de eerste affiliate-sales uiterlijk november 2026.

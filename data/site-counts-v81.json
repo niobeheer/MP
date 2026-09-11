@@ -1,0 +1,11 @@
+{
+  "generated_from": "campings-search-v74.json",
+  "generated_at": "2026-09-04",
+  "unique_locations": 4112,
+  "campings": 3674,
+  "bungalow_parks": 123,
+  "camper_locations": 1391,
+  "glamping_locations": 210,
+  "holiday_parks": 214,
+  "note": "Categorieen kunnen overlappen. Bungalowparken en resorts zijn uitsluitend toegevoegd wanneer een exact first-party parkprofiel of een expliciet accommodatie-/parksignaal aanwezig is."
+}

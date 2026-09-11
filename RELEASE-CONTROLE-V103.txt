@@ -1,0 +1,25 @@
+CampingKiezer V103 — Allcamps-linkherstel
+Datum: 27-08-2026
+
+Aanleiding
+- De vijf links bij "Ontdek onze keuzes per vakantiewens" verwezen correct naar bestaande doelankers.
+- De Allcamps-tussenroute gaf de oorspronkelijke queryparameters door aan Allcamps.
+- De daaruit ontstane landings-URL kon eindigen met HTTP 422.
+
+Herstel
+- De Allcamps-tussenroute opent voortaan exact de gecontroleerde partnerbestemming.
+- Toegestane bestemmingen blijven beperkt tot allcamps.nl en www.allcamps.nl.
+- De hand-offpagina is noindex/nofollow en bevat een zichtbare terugvallink.
+- De bestaande TradeTracker-template blijft ondersteund zodra deze in de productieomgeving is ingesteld.
+- Een extra pre-publicatiecontrole test voortaan alle Allcamps-links en de redirectfunctie.
+
+Pre-publicatiecontrole
+- 4.492 HTML-pagina's gecontroleerd
+- 237.508 interne links gecontroleerd
+- 21 Allcamps-links gecontroleerd
+- 17 unieke Allcamps-bestemmingen gecontroleerd
+- 0 linkfouten
+- 0 Allcamps-routefouten
+- Ongeldige externe bestemming correct geblokkeerd met HTTP 400
+
+Live-hercontrole volgt na publicatie.

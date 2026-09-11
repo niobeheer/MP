@@ -1,0 +1,304 @@
+{
+  "checked_at": "2026-09-04",
+  "site_id": "514819",
+  "portal_accepted_count": 43,
+  "real_partner_campaigns": 42,
+  "campaigns": [
+    {
+      "campaign_id": "29886",
+      "name": "Ackersate.nl",
+      "destination": "https://www.ackersate.nl",
+      "published_url": "https://tc.tradetracker.net/?c=29886&m=12&a=514819&r=&u=https%3A%2F%2Fwww.ackersate.nl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "30368",
+      "name": "ACSI Eurocampings.nl",
+      "destination": "https://www.eurocampings.nl",
+      "published_url": "https://tc.tradetracker.net/?c=30368&m=12&a=514819&r=&u=https%3A%2F%2Fwww.eurocampings.nl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "1852",
+      "name": "ACSI Reizen",
+      "destination": "https://www.acsireizen.nl",
+      "published_url": "https://tc.tradetracker.net/?c=1852&m=12&a=514819&r=&u=https%3A%2F%2Fwww.acsireizen.nl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "34610",
+      "name": "ACSI Verzekeringen",
+      "destination": "https://www.acsi.eu/nl/verzekeringen",
+      "published_url": "https://tc.tradetracker.net/?c=34610&m=12&a=514819&r=&u=https%3A%2F%2Fwww.acsi.eu%2Fnl%2Fverzekeringen",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "2657",
+      "name": "Allcamps.nl",
+      "destination": "https://www.allcamps.nl",
+      "published_url": "https://tc.tradetracker.net/?c=2657&m=12&a=514819&r=&u=https%3A%2F%2Fwww.allcamps.nl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "39168",
+      "name": "Arden Parks Comblain",
+      "destination": "https://ardenparks-comblain.be/",
+      "published_url": "https://tc.tradetracker.net/?c=39168&m=12&a=514819&r=&u=https%3A%2F%2Fardenparks-comblain.be%2F",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "39165",
+      "name": "Arden Parks Durbuy",
+      "destination": "https://www.Ardenparks-durbuy.be",
+      "published_url": "https://tc.tradetracker.net/?c=39165&m=12&a=514819&r=&u=https%3A%2F%2Fwww.Ardenparks-durbuy.be",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "589",
+      "name": "Ardoer",
+      "destination": "https://www.ardoer.com/nl/",
+      "published_url": "https://tc.tradetracker.net/?c=589&m=12&a=514819&r=&u=https%3A%2F%2Fwww.ardoer.com%2Fnl%2F",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "33501",
+      "name": "Beerze Bulten",
+      "destination": "https://www.beerzebulten.nl",
+      "published_url": "https://tc.tradetracker.net/?c=33501&m=12&a=514819&r=&u=https%3A%2F%2Fwww.beerzebulten.nl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "35552",
+      "name": "Campings.com NL",
+      "destination": "https://www.campings.com/nl",
+      "published_url": "https://tc.tradetracker.net/?c=35552&m=12&a=514819&r=&u=https%3A%2F%2Fwww.campings.com%2Fnl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "39758",
+      "name": "Cheapcampers.nl",
+      "destination": "https://cheapcampers.nl/",
+      "published_url": "https://tc.tradetracker.net/?c=39758&m=12&a=514819&r=&u=https%3A%2F%2Fcheapcampers.nl%2F",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "17578",
+      "name": "De Boshoek",
+      "destination": "https://www.deboshoek.nl",
+      "published_url": "https://tc.tradetracker.net/?c=17578&m=12&a=514819&r=&u=https%3A%2F%2Fwww.deboshoek.nl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "15154",
+      "name": "De Twee Bruggen",
+      "destination": "https://www.detweebruggen.nl",
+      "published_url": "https://tc.tradetracker.net/?c=15154&m=12&a=514819&r=&u=https%3A%2F%2Fwww.detweebruggen.nl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "15663",
+      "name": "De Vossenburcht",
+      "destination": "https://www.devossenburcht.nl",
+      "published_url": "https://tc.tradetracker.net/?c=15663&m=12&a=514819&r=&u=https%3A%2F%2Fwww.devossenburcht.nl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "29530",
+      "name": "De Witte Berg",
+      "destination": "https://www.dewitteberg.nl",
+      "published_url": "https://tc.tradetracker.net/?c=29530&m=12&a=514819&r=&u=https%3A%2F%2Fwww.dewitteberg.nl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "31300",
+      "name": "Easyatent",
+      "destination": "https://www.easyatent.nl",
+      "published_url": "https://tc.tradetracker.net/?c=31300&m=12&a=514819&r=&u=https%3A%2F%2Fwww.easyatent.nl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "39552",
+      "name": "Eperwoud",
+      "destination": "https://www.eperwoud.nl/nl/",
+      "published_url": "https://tc.tradetracker.net/?c=39552&m=12&a=514819&r=&u=https%3A%2F%2Fwww.eperwoud.nl%2Fnl%2F",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "32702",
+      "name": "EuroParcs",
+      "destination": "https://www.europarcs.nl",
+      "published_url": "https://tc.tradetracker.net/?c=32702&m=12&a=514819&r=&u=https%3A%2F%2Fwww.europarcs.nl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "917",
+      "name": "Family Holidays",
+      "destination": "https://www.familyholidays.nl",
+      "published_url": "https://tc.tradetracker.net/?c=917&m=12&a=514819&r=&u=https%3A%2F%2Fwww.familyholidays.nl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "12236",
+      "name": "FarmCamps",
+      "destination": "https://farmcamps.com/nl/",
+      "published_url": "https://tc.tradetracker.net/?c=12236&m=12&a=514819&r=&u=https%3A%2F%2Ffarmcamps.com%2Fnl%2F",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "32249",
+      "name": "Flevonatuur",
+      "destination": "https://www.flevonatuur.nl",
+      "published_url": "https://tc.tradetracker.net/?c=32249&m=12&a=514819&r=&u=https%3A%2F%2Fwww.flevonatuur.nl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "1217",
+      "name": "Gusto Camp",
+      "destination": "https://www.gustocamp.nl",
+      "published_url": "https://tc.tradetracker.net/?c=1217&m=12&a=514819&r=&u=https%3A%2F%2Fwww.gustocamp.nl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "34373",
+      "name": "JetCamp",
+      "destination": "https://www.jetcamp.com/nl",
+      "published_url": "https://tc.tradetracker.net/?c=34373&m=12&a=514819&r=&u=https%3A%2F%2Fwww.jetcamp.com%2Fnl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "14070",
+      "name": "Kampeerwereld",
+      "destination": "https://www.kampeerwereld.nl",
+      "published_url": "https://tc.tradetracker.net/?c=14070&m=12&a=514819&r=&u=https%3A%2F%2Fwww.kampeerwereld.nl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "33066",
+      "name": "De Kleine Wolf",
+      "destination": "https://www.kleinewolf.nl/nl/",
+      "published_url": "https://tc.tradetracker.net/?c=33066&m=12&a=514819&r=&u=https%3A%2F%2Fwww.kleinewolf.nl%2Fnl%2F",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "41107",
+      "name": "De Koeksebelt",
+      "destination": "https://www.koeksebelt.nl",
+      "published_url": "https://tc.tradetracker.net/?c=41107&m=12&a=514819&r=&u=https%3A%2F%2Fwww.koeksebelt.nl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "33666",
+      "name": "Kompas Camping",
+      "destination": "https://www.kompascamping.be",
+      "published_url": "https://tc.tradetracker.net/?c=33666&m=12&a=514819&r=&u=https%3A%2F%2Fwww.kompascamping.be",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "29305",
+      "name": "Krieghuusbelten",
+      "destination": "https://www.krieghuusbelten.nl",
+      "published_url": "https://tc.tradetracker.net/?c=29305&m=12&a=514819&r=&u=https%3A%2F%2Fwww.krieghuusbelten.nl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "27046",
+      "name": "De Leistert",
+      "destination": "https://www.leistert.nl/nl",
+      "published_url": "https://tc.tradetracker.net/?c=27046&m=12&a=514819&r=&u=https%3A%2F%2Fwww.leistert.nl%2Fnl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "30667",
+      "name": "LuxCamp",
+      "destination": "https://lux-camp.nl",
+      "published_url": "https://tc.tradetracker.net/?c=30667&m=12&a=514819&r=&u=https%3A%2F%2Flux-camp.nl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "2857",
+      "name": "Molecaten",
+      "destination": "https://www.molecaten.nl",
+      "published_url": "https://tc.tradetracker.net/?c=2857&m=12&a=514819&r=&u=https%3A%2F%2Fwww.molecaten.nl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "34001",
+      "name": "De Norgerberg",
+      "destination": "https://www.norgerberg.nl",
+      "published_url": "https://tc.tradetracker.net/?c=34001&m=12&a=514819&r=&u=https%3A%2F%2Fwww.norgerberg.nl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "32248",
+      "name": "Ommerland",
+      "destination": "https://ommerland.nl",
+      "published_url": "https://tc.tradetracker.net/?c=32248&m=12&a=514819&r=&u=https%3A%2F%2Fommerland.nl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "19098",
+      "name": "RCN",
+      "destination": "https://www.rcn.nl",
+      "published_url": "https://tc.tradetracker.net/?c=19098&m=12&a=514819&r=&u=https%3A%2F%2Fwww.rcn.nl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "32247",
+      "name": "Samoza",
+      "destination": "https://www.samoza.nl",
+      "published_url": "https://tc.tradetracker.net/?c=32247&m=12&a=514819&r=&u=https%3A%2F%2Fwww.samoza.nl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "35166",
+      "name": "Sandberghe",
+      "destination": "https://www.sandberghe.nl",
+      "published_url": "https://tc.tradetracker.net/?c=35166&m=12&a=514819&r=&u=https%3A%2F%2Fwww.sandberghe.nl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "1854",
+      "name": "Suncamp",
+      "destination": "https://www.suncamp.nl",
+      "published_url": "https://tc.tradetracker.net/?c=1854&m=12&a=514819&r=&u=https%3A%2F%2Fwww.suncamp.nl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "30138",
+      "name": "TopParken",
+      "destination": "https://www.topparken.nl",
+      "published_url": "https://tc.tradetracker.net/?c=30138&m=12&a=514819&r=&u=https%3A%2F%2Fwww.topparken.nl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "38299",
+      "name": "Watersnip",
+      "destination": "https://www.watersnip.nl",
+      "published_url": "https://tc.tradetracker.net/?c=38299&m=12&a=514819&r=&u=https%3A%2F%2Fwww.watersnip.nl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "31854",
+      "name": "ACSI Webshop",
+      "destination": "https://webshop.acsi.eu/nl",
+      "published_url": "https://tc.tradetracker.net/?c=31854&m=12&a=514819&r=&u=https%3A%2F%2Fwebshop.acsi.eu%2Fnl",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "40561",
+      "name": "Wetona",
+      "destination": "https://wetona.nl/",
+      "published_url": "https://tc.tradetracker.net/?c=40561&m=12&a=514819&r=&u=https%3A%2F%2Fwetona.nl%2F",
+      "tracking_status": "canonical_tracking_link"
+    },
+    {
+      "campaign_id": "6475",
+      "name": "Zandstuve",
+      "destination": "https://www.zandstuve.nl",
+      "published_url": "https://tc.tradetracker.net/?c=6475&m=12&a=514819&r=&u=https%3A%2F%2Fwww.zandstuve.nl",
+      "tracking_status": "canonical_tracking_link"
+    }
+  ],
+  "house_campaign_excluded": true,
+  "our_choices_route": "/onze-keuzes/"
+}

@@ -1,0 +1,11 @@
+CampingKiezer v127 — controle campingoverlap VerblijfKiezer
+Datum: 2026-09-04
+
+- Alle 102 uit VerblijfKiezer verwijderde campinglocaties gecontroleerd.
+- 101 locaties waren al aanwezig op CampingKiezer.
+- Vakantiepark Dierenbos toegevoegd als gecontroleerde camping/vakantiepark-locatie.
+- Dierenbos opgenomen in zoekdata, profielpagina, A-Z-overzicht, Noord-Brabantpagina en relevante sitemaps.
+- Actueel aanbod: 4.112 profielen.
+- Alle 102 VerblijfKiezer-redirectdoelen bestaan als CampingKiezer-profiel.
+- Linkcontrole: 4.532 HTML-bestanden en 248.476 links gecontroleerd; 0 fouten.
+- Bestaande v126-compleetheids- en SEO-controles blijven geslaagd.

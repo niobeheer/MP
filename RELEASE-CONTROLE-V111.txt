@@ -1,0 +1,31 @@
+CampingKiezer V111 — tarieven en pakketonderscheid
+Datum: 2026-08-28
+Basis: CampingKiezer V110
+
+Gewijzigd:
+- Basis blijft gratis.
+- Plus: vanaf €29 per maand of €290 per jaar.
+- Pro: vanaf €79 per maand of €790 per jaar.
+- Groep 2–10: vanaf €199 per maand of €1.990 per jaar.
+- Keten 11–50: vanaf €599 per maand of €5.990 per jaar.
+- Enterprise 51+: vanaf €1.495 per maand of €14.950 per jaar.
+- Pakketverschillen aangescherpt op content, rapportage, campagnes, feedverwerking,
+  vaste begeleiding, integraties en afgesproken serviceniveau.
+- Keten-CTA gewijzigd naar “Plan een ketengesprek”.
+- Claimformulier en zakelijke overzichtspagina bijgewerkt.
+- Basis bevat maximaal één standaard profielfoto zonder vrije mediakeuze.
+- Eigen commerciële tekst, logo, gekozen omslagfoto en een galerij tot 10 beelden
+  zijn onderdeel van Plus of hoger.
+
+Randvoorwaarden behouden:
+- Bedragen zijn zakelijke vanafprijzen exclusief btw.
+- Een geldig basisprofiel blijft gratis beschikbaar.
+- Betaalde dienstverlening geeft geen garantie op boekingen of een vaste
+  organische positie.
+
+Controle:
+- 4.511 HTML-bestanden gecontroleerd.
+- 233.932 interne links gecontroleerd; 0 fouten.
+- SEO-regressiecontrole V110: passed.
+- Oude tarieven: niet meer aanwezig.
+- Nieuwe tarieven en formulieren: aanwezig.

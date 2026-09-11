@@ -1,0 +1,8 @@
+CampingKiezer v131 — Search Console detailherstel — 2026-09-04
+
+- Twee door Search Console gemelde 404-profielslugs permanent doorgestuurd:
+  - /camping/minicamping-de-oosterweide/ → /camping/camping-de-oosterweide/
+  - /camping/de-wielewaal/ → /camping/camping-de-wielewaal/
+- De bestemmingen bestaan, zijn indexeerbaar en hebben een self-canonical.
+- Bewuste noindex-, canonical- en redirectmeldingen zijn gecontroleerd en hoeven niet te worden "opgelost".
+- FarmCamps V130-controles blijven volledig opgenomen.

@@ -1,0 +1,17 @@
+{
+  "version": "V131",
+  "checked_at": "2026-09-04",
+  "search_console_404": {
+    "reported": 2,
+    "fixed_with_301": 2,
+    "redirects": {
+      "/camping/minicamping-de-oosterweide/": "/camping/camping-de-oosterweide/",
+      "/camping/de-wielewaal/": "/camping/camping-de-wielewaal/"
+    },
+    "destination_pages_exist": true,
+    "destination_pages_indexable": true,
+    "destination_pages_self_canonical": true
+  },
+  "farmcamps_v130_retained": true,
+  "failures": 0
+}

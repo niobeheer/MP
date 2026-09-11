@@ -1,0 +1,36 @@
+CampingKiezer V114 - affiliate-uitbreiding
+Datum: 2026-08-30
+
+Gerealiseerd
+- Zeven aanvullende affiliate-netwerken beoordeeld en geprioriteerd.
+- Acht concrete programmakandidaten vastgelegd met markt, programmastatus, officiële bestemming en geplande site-oppervlakte.
+- Werkelijke Awin-accountstatus verwerkt: Duinrell NL, Camping and Co NL, Parc Maasresidence Thorn NL, Hardloop NL, Landal DE en Eurocamp DE staan op Pending Approval.
+- De vijf nieuwe Awin-aanvragen zijn op 30 augustus 2026 vanuit Nio beheer (publisher 3062983) verzonden en daarna per programma opnieuw gecontroleerd.
+- TradeDoubler-account gecontroleerd: Camping-Kiezer.nl staat correct geregistreerd als site 3496583, maar alle zes sites wachten nog op netwerkvalidatie; Roompot en Goboony kunnen daarom nog niet worden aangevraagd.
+- Adtraction-account gecontroleerd: Camping-Kiezer.nl staat correct geregistreerd als kanaal 2106601707, maar alle zeven kanalen staan nog op Pending Review; John Fowler Holidays kan daarom nog niet worden aangevraagd.
+- Webgains en Kwanko zijn niet als bestaand account bevestigd omdat de beveiligde inlog is geannuleerd. De CJ-inlog bleef vóór de e-mailstap. Partnerize vereist een nieuwe registratie met bedrijfsgegevens en CAPTCHA.
+- Beveiligde runtime-koppeling toegevoegd voor Awin en TradeDoubler.
+- Een kandidaat werkt alleen als de aanbieder expliciet in AFFILIATE_APPROVED_PROVIDERS staat en een geldige HTTPS-trackingtemplate is ingesteld.
+- Bestemmingshosts en trackinghosts zijn per netwerk beperkt.
+- Nieuwe releasevalidator voorkomt dat onbevestigde kandidaten op homepage of Onze keuzes verschijnen.
+
+Bewust nog niet publiek
+- Camping and Co NL
+- Parc Maasresidence Thorn NL
+- Hardloop NL
+- Landal DE
+- Eurocamp DE
+- Roompot
+- Goboony
+
+Publicatievoorwaarden per kandidaat
+1. Netwerk- en programma-aanvraag goedgekeurd.
+2. Trackinglink of productfeed technisch getest.
+3. Officieel beeldmateriaal en gebruiksrecht beschikbaar.
+4. Aanbiederspagina gecontroleerd op actuele, officiële broninformatie.
+5. Pas daarna toevoegen aan aanbiedersoverzicht, sitemap en eventueel Onze keuzes.
+
+Ongewijzigd
+- 21 bestaande goedgekeurde aanbieders.
+- 17 bestaande feedaanbieders op homepage en Onze keuzes.
+- Geen commercieel label per kaart; bestaande voorwaarden blijven de plek voor de affiliate-uitleg.

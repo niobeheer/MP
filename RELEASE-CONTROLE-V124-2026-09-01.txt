@@ -1,0 +1,10 @@
+CampingKiezer v124 — Netlify-buildherstel
+Datum: 1 september 2026
+
+- De V106-regressiecontrole accepteert voortaan uitbreiding boven de oorspronkelijke
+  ondergrens van 32 aanbieders.
+- Het actuele aanbiedersoverzicht bevat 37 aanbieders.
+- Alle overige validators blijven ongewijzigd en actief.
+- Campagnes, trackinglinks, vergelijker, themafilters, afbeeldingen en
+  seizoensplaatsadvertenties blijven ongewijzigd ten opzichte van v123.
+

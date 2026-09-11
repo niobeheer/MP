@@ -1,0 +1,15 @@
+CampingKiezer v133 — volledige Daisycon-splitsing — 2026-09-04
+
+- Vodatent NL (programma 15258) en Vodatent.com (programma 15967) hebben nu elk een eigen aanbiederspagina, feedkoppeling, sitemap-URL en kaart bij Onze keuzes.
+- UplandParcs en alle Search Console-verbeteringen uit v132 blijven behouden.
+- Totaal: 11 Daisycon-programma's op 11 afzonderlijk meetbare aanbiedersroutes, 42 TradeTracker-campagnes en 52 keuzes.
+
+Eindcontrole
+- 99 Daisycon-trackinglinks/deeplinks gecontroleerd: programma-ID, media-ID 424678 en ingevulde deeplinkbestemming; 0 fouten.
+- 27 live feedproviders gecontroleerd (TradeTracker en Daisycon); 0 fouten.
+- 4.547 HTML-pagina's en 249.299 interne links gecontroleerd; 0 kapotte interne links.
+- 4.418 indexeerbare pagina's, 129 bewust noindex; 0 noindex-URL's en 0 redirects in de sitemaps.
+
+FarmCamps
+- De door FarmCamps genoemde onjuiste header/slider is verwijderd.
+- De aanbiederspagina en Onze keuzes gebruiken actueel, door FarmCamps toegestaan TradeTracker-feedbeeld.

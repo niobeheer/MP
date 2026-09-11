@@ -1,0 +1,25 @@
+CampingKiezer v130 — Search Console en FarmCamps — 2026-09-04
+
+FarmCamps
+- De aanbiederspagina gebruikt uitsluitend actuele afbeeldingen en productinformatie uit de toegestane TradeTracker-feed.
+- De oude statische headerafbeelding en slider zijn niet aanwezig.
+- Op Onze keuzes wordt de tijdelijke algemene afbeelding na laden vervangen door officieel FarmCamps-feedbeeld.
+- Live feedcontrole: 24 producten, 24 afbeeldingen, 24 trackinglinks en 24 deeplinks gecontroleerd.
+- Trackinghandtekening: campagne 12236, feed 2433764, media 514819.
+
+Technische zoekcontrole
+- 4.545 HTML-pagina's gecontroleerd.
+- 249.051 interne verwijzingen gecontroleerd; 0 gebroken verwijzingen.
+- 4.498 unieke sitemap-URL's.
+- 0 noindex-URL's in de sitemap.
+- 0 redirect-URL's in de sitemap.
+- 0 dubbele titels binnen de sitemap.
+
+Search Console-export
+- Het aangeleverde dekkingsbestand bevat totalen, maar geen voorbeeld-URL's per probleemtype.
+- Bewuste noindex-, redirect- en canonical-URL's zijn geen technische fouten en moeten niet als opgelost worden gevalideerd zolang die status bewust blijft.
+- Voor de 2 gemelde 404-URL's en de 26 gecrawlde maar niet geïndexeerde URL's is de detail-export met concrete URL's nodig om per pagina een gerichte beslissing te nemen.
+
+Daisycon-export
+- De campagne-export bevat 1.004 programma's en vermeldt deeplink- en productfeedmogelijkheden.
+- Alle regels hebben status "no media selected"; deze export bewijst daarom niet welke campagnes voor CampingKiezer zijn goedgekeurd en bevat geen mediagebonden trackinglinks.

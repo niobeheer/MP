@@ -1,0 +1,35 @@
+CampingKiezer V105 - ZES NIEUWE DAISYCON-CAMPAGNES
+Datum: 2026-08-27
+Media: Camping kiezer (424678)
+
+Goedgekeurde campagnes
+- Glamping4all (8995)
+- Vipio (15569)
+- Landgoed Ruwinkel (8921)
+- Campings.com NL (16264)
+- Lake Resort & Safari Resort Beekse Bergen (6813)
+- Dierenbos Vakantiepark - Libema (6815)
+
+Productfeeds
+- Vipio: 1.245 actuele producten gecontroleerd en geïntegreerd.
+- Campings.com: 2.765 actuele producten gecontroleerd en geïntegreerd.
+- Beide aanbieders hebben een eigen zoekpagina met officiële feedfoto's, prijzen en meetbare productlinks.
+- Vipio blijft gescheiden van de hoofdzoeker omdat de feed ook niet-campingverblijven bevat.
+
+Gecontroleerde deeplinks
+- Glamping4all: eindigt correct op glamping4all.com.
+- Landgoed Ruwinkel: eindigt correct op landgoedruwinkel.nl/nl/.
+- Beekse Bergen: eindigt correct op beeksebergen.nl/overnachten.
+- Dierenbos: eindigt correct op dierenbos.nl.
+- Alle vier de controles eindigden met HTTP 200 en behouden Daisycon-campagne- en media-ID.
+
+Zichtbaarheid
+- Alle zes campagnes staan op /aanbieders/.
+- Vipio en Campings.com staan daarnaast op /boeken/ en in sitemap-core.xml.
+- Het aanbiedersoverzicht bevat nu tien aangesloten aanbieders.
+
+Commercie en transparantie
+- Geen rangschikking op commissie.
+- Prijzen worden alleen als prijs voor het geselecteerde aanbod getoond.
+- De aanbieder blijft verantwoordelijk voor actuele beschikbaarheid, eindsom en voorwaarden.
+- Alle uitgaande commerciële links gebruiken rel="sponsored nofollow noopener".

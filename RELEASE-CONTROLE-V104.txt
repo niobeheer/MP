@@ -1,0 +1,25 @@
+CampingKiezer V104 - NIEUWE AANBIEDERS
+Datum: 2026-08-27
+
+Toegevoegd
+- ACSI Reizen: TradeTracker feed 1634850, campagne 1852.
+- Suncamp: TradeTracker feed 1163607, campagne 1854.
+- Nieuwe aanbiederspagina's met live zoeken, landenfilter, actuele feedfoto's en getrackte uitgaande links.
+- Aanbiedersoverzicht, sitemap en redirects bijgewerkt.
+
+Feedcontrole
+- ACSI Reizen XML-feed: 42 producten gecontroleerd.
+- Suncamp XML-feed 250953: 346 producten gecontroleerd.
+- Suncamp JSON-feed 1163607: 346 producten gecontroleerd.
+- De twee Suncamp-feeds delen alle 346 product-ID's. Feed 250953 is daarom bewust niet apart geïmporteerd.
+- De rijkere JSON-feed 1163607 is de actieve Suncamp-bron.
+
+Scheiding van aanbod
+- Suncamp-campings staan op een eigen campingaanbiederspagina.
+- ACSI Reizen bevat complete rondreizen en wordt niet als losse campingprofielen in de hoofdzoeker opgenomen.
+
+Beveiliging en commercie
+- Alleen HTTPS-links naar de toegestane providerhost worden doorgelaten.
+- Iedere link moet de verwachte campagne-, feed- en affiliate-ID bevatten.
+- Uitgaande partnerlinks hebben rel="sponsored nofollow noopener".
+- Feedresultaten worden 30 minuten gecachet.

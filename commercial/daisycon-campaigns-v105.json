@@ -1,0 +1,58 @@
+{
+  "version": "V105",
+  "checked_at": "2026-08-27",
+  "media_id": "424678",
+  "media_name": "Camping kiezer",
+  "campaigns": [
+    {
+      "program_id": "8995",
+      "name": "Glamping4all",
+      "route": "/aanbieders/glamping4all/",
+      "integration": "verified-deeplink",
+      "tracking_url": "https://jdt8.net/c/?si=8995&li=1412571&wi=424678&ws=&dl=",
+      "verified_final_url": "https://www.glamping4all.com/"
+    },
+    {
+      "program_id": "15569",
+      "name": "Vipio",
+      "integration": "product-feed",
+      "feed_products_checked": 1245,
+      "route": "/aanbieders/vipio/",
+      "tracking_host": "fr135.net"
+    },
+    {
+      "program_id": "8921",
+      "name": "Landgoed Ruwinkel",
+      "route": "/aanbieders/landgoed-ruwinkel/",
+      "integration": "verified-deeplink",
+      "tracking_url": "https://ds1.nl/c/?si=8921&li=1410027&wi=424678&ws=&dl=nl%2F",
+      "verified_final_url": "https://www.landgoedruwinkel.nl/nl/"
+    },
+    {
+      "program_id": "16264",
+      "name": "Campings.com (NL)",
+      "integration": "product-feed",
+      "feed_products_checked": 2765,
+      "route": "/aanbieders/campings-com/",
+      "tracking_host": "jf79.net"
+    },
+    {
+      "program_id": "6813",
+      "name": "Lake Resort & Safari Resort Beekse Bergen",
+      "hub_label": "Beekse Bergen",
+      "route": "/aanbieders/beekse-bergen/",
+      "integration": "verified-deeplink",
+      "tracking_url": "https://ds1.nl/c/?si=6813&li=1316969&wi=424678&ws=&dl=overnachten",
+      "verified_final_url": "https://www.beeksebergen.nl/overnachten"
+    },
+    {
+      "program_id": "6815",
+      "name": "Dierenbos Vakantiepark - Libema",
+      "hub_label": "Dierenbos Vakantiepark",
+      "route": "/aanbieders/dierenbos/",
+      "integration": "verified-deeplink",
+      "tracking_url": "https://ds1.nl/c/?si=6815&li=1316973&wi=424678&ws=&dl=",
+      "verified_final_url": "https://www.dierenbos.nl/"
+    }
+  ]
+}

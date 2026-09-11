@@ -1,0 +1,43 @@
+# CampingKiezer
+
+> Onafhankelijke Nederlandse vergelijker voor campings, camperplaatsen, bungalowparken, glampinglocaties en vakantieparken.
+
+Canonical site: https://camping-kiezer.nl/
+Language: nl-NL
+Navigation updated: 2026-09-05 (not a new verification date for individual profiles)
+Visible location profiles: 4112
+
+## Europe
+- https://camping-kiezer.nl/europa/
+
+## Core directories
+- https://camping-kiezer.nl/campings/
+- https://camping-kiezer.nl/bungalowparken/
+- https://camping-kiezer.nl/camperplaatsen/
+- https://camping-kiezer.nl/glampings/
+- https://camping-kiezer.nl/vakantieparken/
+- https://camping-kiezer.nl/ketens/
+- https://camping-kiezer.nl/regios/
+- https://camping-kiezer.nl/themas/
+- https://camping-kiezer.nl/kennisbank/
+
+## Trust and methodology
+- https://camping-kiezer.nl/methodologie/
+- https://camping-kiezer.nl/bronnenbeleid/
+- https://camping-kiezer.nl/redactiebeleid/
+- https://camping-kiezer.nl/bedrijfsinformatie/
+- https://camping-kiezer.nl/hoe-we-verdienen
+
+## Interpretation rules
+- Missing data is unknown, not automatically absent.
+- Profile completeness is not a quality score or review.
+- Prices, ratings and availability are not invented.
+- Current prices, availability and conditions must be verified with the provider.
+- Category counts can overlap because one location may offer multiple stay types.
+- Claim status concerns verification on CampingKiezer, not ownership of the physical location.
+
+## Crawling
+The canonical sitemap index is https://camping-kiezer.nl/sitemap.xml.
+Faceted search parameters are intentionally excluded from indexing.
+
+This file is a navigation aid. It does not claim or imply ranking benefits.

@@ -1,0 +1,98 @@
+{
+  "checked_at": "2026-09-04",
+  "media": "Camping kiezer",
+  "media_id": "424678",
+  "approved_count": 11,
+  "approvals": [
+    {
+      "program_id": "6815",
+      "name": "Dierenbos Vakantiepark - Libema",
+      "route": "/aanbieders/dierenbos/",
+      "media_id": "424678",
+      "status": "approved",
+      "provider_key": "dierenbos"
+    },
+    {
+      "program_id": "6813",
+      "name": "Lake Resort & Safari Resort Beekse Bergen",
+      "route": "/aanbieders/beekse-bergen/",
+      "media_id": "424678",
+      "status": "approved",
+      "provider_key": "beekse-bergen"
+    },
+    {
+      "program_id": "8921",
+      "name": "Landgoed Ruwinkel",
+      "route": "/aanbieders/landgoed-ruwinkel/",
+      "media_id": "424678",
+      "status": "approved",
+      "provider_key": "landgoed-ruwinkel"
+    },
+    {
+      "program_id": "15690",
+      "name": "UplandParcs (NL)",
+      "route": "/aanbieders/uplandparcs/",
+      "media_id": "424678",
+      "status": "approved",
+      "provider_key": "uplandparcs"
+    },
+    {
+      "program_id": "15569",
+      "name": "Vipio",
+      "route": "/aanbieders/vipio/",
+      "media_id": "424678",
+      "status": "approved",
+      "provider_key": "vipio"
+    },
+    {
+      "program_id": "8995",
+      "name": "Glamping4all",
+      "route": "/aanbieders/glamping4all/",
+      "media_id": "424678",
+      "status": "approved",
+      "provider_key": "glamping4all"
+    },
+    {
+      "program_id": "15258",
+      "name": "Vodatent (NL)",
+      "route": "/aanbieders/vodatent/",
+      "media_id": "424678",
+      "status": "approved",
+      "provider_key": "vodatent"
+    },
+    {
+      "program_id": "11126",
+      "name": "Bungalow.Net",
+      "route": "/aanbieders/bungalow-net/",
+      "media_id": "424678",
+      "status": "approved",
+      "provider_key": "bungalow-net"
+    },
+    {
+      "program_id": "16264",
+      "name": "Campings.com (NL)",
+      "route": "/aanbieders/campings-com/",
+      "media_id": "424678",
+      "status": "approved",
+      "provider_key": "campings-com"
+    },
+    {
+      "program_id": "15967",
+      "name": "Vodatent.com",
+      "route": "/aanbieders/vodatent-com/",
+      "media_id": "424678",
+      "status": "approved",
+      "provider_key": "vodatent-com"
+    },
+    {
+      "program_id": "21545",
+      "name": "Tendi",
+      "route": "/aanbieders/tendi/",
+      "media_id": "424678",
+      "status": "approved",
+      "provider_key": "tendi"
+    }
+  ],
+  "version": "V133",
+  "provider_pages": 11
+}

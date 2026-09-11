@@ -1,0 +1,32 @@
+{
+  "version": "V107",
+  "media": {"name": "Camping kiezer", "daisycon_id": "424678", "tradetracker_id": "514819"},
+  "our_choices": {"feed_provider_count": 17, "route": "/onze-keuzes/", "presentation": "provider-cards-linking-to-live-feed-pages"},
+  "daisycon": [
+    {"program_id":"6815","name":"Dierenbos Vakantiepark - Libema","integration":"featured-deeplinks","route":"/aanbieders/dierenbos/","feed_count":0},
+    {"program_id":"6813","name":"Lake Resort & Safari Resort Beekse Bergen","integration":"featured-deeplinks","route":"/aanbieders/beekse-bergen/","feed_count":0},
+    {"program_id":"8921","name":"Landgoed Ruwinkel","integration":"featured-deeplinks","route":"/aanbieders/landgoed-ruwinkel/","feed_count":0},
+    {"program_id":"15569","name":"Vipio","integration":"product-feed","route":"/aanbieders/vipio/","feed_count":1245},
+    {"program_id":"8995","name":"Glamping4all","integration":"featured-deeplinks","route":"/aanbieders/glamping4all/","feed_count":0},
+    {"program_id":"15258","name":"Vodatent (NL)","integration":"product-feed","route":"/aanbieders/vodatent/","feed_count":143},
+    {"program_id":"11126","name":"Bungalow.Net","integration":"product-feed","route":"/aanbieders/bungalow-net/","feed_count":3257},
+    {"program_id":"16264","name":"Campings.com (NL)","integration":"product-feed","route":"/aanbieders/campings-com/","feed_count":2765},
+    {"program_id":"15967","name":"Vodatent.com","integration":"audited-alternative-brand-feed","route":"/aanbieders/vodatent/","feed_count":132,"note":"Niet als tweede merkpagina getoond; de Nederlandstalige Vodatent-feed 15258 is de primaire bron."},
+    {"program_id":"21545","name":"Tendi","integration":"product-feed","route":"/aanbieders/tendi/","feed_count":25}
+  ],
+  "tradetracker": [
+    {"campaign_id":"29886","name":"Ackersate.nl","feed_id":"1501781","feed_count":45,"route":"/aanbieders/ackersate/"},
+    {"campaign_id":"30368","name":"ACSI Eurocampings.nl","feed_id":"1624201","feed_count":2280,"route":"/aanbieders/acsi-eurocampings/"},
+    {"campaign_id":"1852","name":"ACSIreizen.nl","feed_id":"1634850","feed_count":42,"route":"/aanbieders/acsi-reizen/"},
+    {"campaign_id":"2657","name":"Allcamps.nl","feed_id":"2166132","feed_count":1597,"route":"/aanbieders/allcamps/"},
+    {"campaign_id":"589","name":"Ardoer.com","feed_id":"2554028","feed_count":30,"route":"/aanbieders/ardoer/"},
+    {"campaign_id":"17578","name":"Deboshoek.nl","feed_id":"1425497","feed_count":68,"route":"/aanbieders/de-boshoek/"},
+    {"campaign_id":"15663","name":"Devossenburcht.nl","feed_id":"735700","feed_count":17,"route":"/aanbieders/de-vossenburcht/"},
+    {"campaign_id":"32702","name":"Europarcs.nl","feed_id":"2543782","feed_count":930,"route":"/aanbieders/europarcs/"},
+    {"campaign_id":"12236","name":"FarmCamps.com","feed_id":"2433764","feed_count":24,"route":"/aanbieders/farmcamps/"},
+    {"campaign_id":"1217","name":"Gustocamp.nl","feed_id":"2378774","feed_count":14,"route":"/aanbieders/gusto-camp/"},
+    {"campaign_id":"1854","name":"Suncamp.nl","feed_id":"1163607","feed_count":346,"route":"/aanbieders/suncamp/"},
+    {"campaign_id":"6475","name":"Zandstuve.nl","feed_id":"1449416","feed_count":25,"route":"/aanbieders/zandstuve/"}
+  ],
+  "daisycon_without_feed": ["8995", "8921", "6813", "6815"]
+}

@@ -1,0 +1,11 @@
+{
+  "generated_from": "campings-search-v74.json",
+  "generated_at": "2026-09-04",
+  "unique_locations": 4112,
+  "campings": 3674,
+  "bungalow_parks": 27,
+  "camper_locations": 1391,
+  "glamping_locations": 210,
+  "holiday_parks": 139,
+  "note": "Categorieen kunnen overlappen. Een gemengd park telt eenmaal bij unieke locaties en bij elk aantoonbaar aangeboden verblijfstype."
+}

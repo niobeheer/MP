@@ -1,0 +1,128 @@
+/*
+  X-Frame-Options: SAMEORIGIN
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+
+/data/*
+  X-Robots-Tag: noindex, nofollow
+
+/internal-data/*
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: private, no-store
+
+/internal-release-notes/*
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: private, no-store
+
+/data/campings-search-v23.json
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/assets/*
+  Cache-Control: public, max-age=604800, stale-while-revalidate=2592000
+
+/data/campings-search-v24.json
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/data/campings-search-v25.json
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/data/campings-search-v26.json
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/data/campings-search-v27.json
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/data/campings-search-v28.json
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/data/campings-search-v29.json
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/data/campings-search-v30.json
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/data/campings-search-v31.json
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/data/campings-search-v32.json
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/data/campings-search-v33.json
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/data/campings-search-v34.json
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/data/campings-search-v35.json
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/data/campings-search-v36.json
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/data/campings-search-v37.json
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/data/campings-search-v38.json
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/data/campings-search-v39.json
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/data/campings-search-v40.json
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/data/provider-matches-v40.json
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/site-identity.json
+  Cache-Control: no-store
+
+/health.json
+  Cache-Control: no-store
+
+/data/campings-search-v41.json
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/data/campings-search-v43.json
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/data/provider-matches-v43.json
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/data/campings-search-v44.json
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/data/provider-matches-v44.json
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+
+/tools/*
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: private, no-store
+
+/sitemap*.xml
+  Content-Type: application/xml; charset=utf-8
+  Cache-Control: public, max-age=3600

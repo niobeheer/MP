@@ -1,0 +1,31 @@
+CampingKiezer V108 — beeldprompt en beeldplan
+
+Gebruikte beeldmodus
+- Ingebouwde fotorealistische beeldgeneratie.
+- Horizontale reisfotografie, geen tekst, logo's of watermerken.
+- Zonnige maar geloofwaardige Nederlandse en West-Europese campingomgevingen.
+- Natuurlijke gezinnen, correcte anatomie, gewone vakantiekleding en documentaire compositie.
+
+Hoofdprompt voor de homepagehero
+Maak een fotorealistische, horizontale hero-afbeelding voor Camping-Kiezer.nl, een Nederlandse website waarop consumenten campings en vakantieparken ontdekken en vergelijken. De foto moet direct vakantieverlangen oproepen en gezinnen enthousiast maken om verder te zoeken of te boeken, maar moet eruitzien als een echte professionele reisfoto en absoluut niet als een AI-afbeelding.
+
+Toon een sfeervolle, verzorgde familiecamping in Nederland of West-Europa op een geloofwaardige zonnige zomerdag. Op de voorgrond spelen twee kinderen spontaan en blootsvoets in het gras. Ze zijn volledig verdiept in hun spel; één kind rent met een bal of door kleine waterspetters, terwijl het andere kind lachend reageert. Hun plezier is natuurlijk en niet overdreven. Ze kijken niet naar de camera.
+
+De ouders zitten ontspannen bij een moderne caravan, safaritent of nette kampeerplaats. Eén ouder schenkt limonade in en de andere kijkt rustig naar de kinderen. Laat subtiel zien dat het gezin samen geniet, zonder gemaakte poses of brede reclamemodellach. De sfeer straalt veiligheid, vrijheid, verbinding en rust uit.
+
+Maak de camping aantrekkelijk maar geloofwaardig: groen gras met kleine natuurlijke oneffenheden, volwassen bomen, afgebakende ruime kampeerplaatsen, een paar fietsen, slippers bij de caravan, een handdoek over een stoel, buitenspeelgoed en andere vakantiedetails. Op de achtergrond zijn enkele andere kampeerplaatsen en gezinnen onscherp zichtbaar. Het terrein is levendig maar niet druk.
+
+Gebruik warm, natuurlijk namiddaglicht met realistische schaduwen. Geen overdreven zonsondergang, magische zonnestralen of oranje filter. Fotografeer alsof een ervaren Nederlandse reisfotograaf ongemerkt een echt vakantiemoment vastlegt: documentaire lifestylefotografie, full-frame camera, 35mm-lens, natuurlijke scherptediepte, realistische huidstructuur, gewone maar verzorgde vakantiekleding, subtiele beweging en geloofwaardige kleuren.
+
+Horizontaal beeld in 16:9-formaat. Houd de belangrijkste personen rond het midden en iets rechts in beeld, zodat zij bij uitsnijden voor mobiel zichtbaar blijven. Laat links een rustige, iets donkerdere zone vrij waarop Camping-Kiezer.nl later een titel en zoekvenster kan plaatsen. Voeg zelf geen tekst toe.
+
+De foto moet aantrekkelijk genoeg zijn voor een professionele reiswebsite, maar niet perfect of geënsceneerd. Zorg voor correcte menselijke anatomie, natuurlijke handen, echte gezichtsverhoudingen en verschillende, unieke personen.
+
+Vermijd nadrukkelijk: plastic huid, perfecte witte tanden, overdreven lachende modellen, stijve poses, mensen die in de camera kijken, onnatuurlijke handen of vingers, identieke gezichten, dubbele voorwerpen, zwevende objecten, extreem groene grasvelden, overdreven HDR, zware achtergrondonscherpte, luxe resortuitstraling, Amerikaanse campingelementen, tekst, logo's, watermerken en alle andere herkenbare AI-kenmerken.
+
+Beeldplan
+- 1 hero-achtergrond met rustige ruimte links.
+- 3 aanvullende zonnige bovenbeelden.
+- 5 unieke beelden voor campings, bungalowparken, camperplaatsen, glamping en vakantieparken.
+- 6 unieke beelden voor water, kinderen, privé sanitair, hond, natuur en rust.
+- 12 unieke beelden voor zwembad, privé sanitair, adults only, animatie, huisdieren, horeca, camper, glamping, natuurkamperen, elektrisch laden, speeltuin en wellness.

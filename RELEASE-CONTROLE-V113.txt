@@ -1,0 +1,23 @@
+CampingKiezer V113 — profielupgrade Recreatiepark De Boshoek
+Datum: 28 augustus 2026
+
+Gerealiseerd
+- Hoofdprofiel bijgewerkt naar 5-sterren recreatiepark op de Veluwe.
+- Aangeleverde verblijfstypen toegevoegd: kampeerplaatsen, safaritenten, trekkershutten, hotelkamers, tiny houses, chalets en groepsaccommodaties.
+- Capaciteit van 2 tot 30 personen toegevoegd.
+- Extra faciliteiten toegevoegd: bowlingbaan, escape room en racelounge.
+- Officieel De Boshoek-beeld uit de goedgekeurde aanbodvermelding gebruikt op het hoofdprofiel en de aanbiederspagina.
+- Hoofdprofiel gekoppeld aan de 68 actuele TradeTracker-verblijven.
+- Homepage, Onze keuzes en aanbiedersoverzicht commercieel aangescherpt.
+- Titel, meta description, social metadata en structured data bijgewerkt.
+- Sitemapdatums bijgewerkt naar 2026-08-28.
+
+Controle
+- 4.512 HTML-pagina's gecontroleerd; geen dubbele titles, descriptions of canonicals.
+- 17 aanbiedersfeeds gecontroleerd; 0 fouten.
+- TradeTracker-feed De Boshoek: 68 verblijven en geldige HTTPS-partnerlinks.
+- Beide De Boshoek-pagina's laden lokaal met HTTP 200.
+- Alle JSON-LD-blokken zijn geldig.
+
+Openstaand
+- De gedeelde Google Drive-beeldbank is nog niet toegankelijk voor het ingelogde account. Extra galerijbeelden kunnen worden toegevoegd zodra Booking Boosters toegang verleent.

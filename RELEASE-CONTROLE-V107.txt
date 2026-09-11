@@ -1,0 +1,51 @@
+CampingKiezer V107 - ALLE FEEDAANBIEDERS IN ONZE KEUZES
+Datum: 27-08-2026
+Status: gereed voor preview en publicatie na GO
+
+HOOFDWIJZIGING
+- Onze keuzes uitgebreid van 9 naar 17 aanbieders.
+- Iedere unieke goedgekeurde aanbieder met een werkende productfeed heeft nu precies één kaart.
+- Iedere kaart linkt intern naar de eigen aanbiederspagina met actueel doorzoekbaar aanbod.
+- Geen snel verouderende prijzen of vaste reisdata meer op de pagina Onze keuzes.
+- Canonical blijft exact: https://camping-kiezer.nl/onze-keuzes/
+
+17 FEEDAANBIEDERS IN ONZE KEUZES
+1. FarmCamps
+2. EuroParcs
+3. Vakantiepark De Vossenburcht
+4. Gusto Camp
+5. Allcamps
+6. Bungalow.Net
+7. Vakantiepark Ackersate
+8. Kampeerdorp De Zandstuve
+9. Ardoer
+10. Suncamp
+11. ACSI Reizen
+12. Vipio
+13. Campings.com
+14. Vodatent
+15. Tendi
+16. ACSI Eurocampings
+17. Recreatiepark De Boshoek
+
+BEWUST NOG NIET IN ONZE KEUZES
+- Glamping4all: geen productfeed beschikbaar.
+- Landgoed Ruwinkel: geen productfeed beschikbaar.
+- Lake Resort & Safari Resort Beekse Bergen: geen productfeed beschikbaar.
+- Vakantiepark Dierenbos: geen productfeed beschikbaar.
+
+Deze vier behouden hun eigen uitgelichte aanbiederspagina en worden benaderd voor een productfeed.
+
+QA
+- 4.511 HTML-bestanden gecontroleerd.
+- 238.224 interne links gecontroleerd.
+- 17 feedkaarten gecontroleerd.
+- 21 unieke aanbiedersroutes gecontroleerd.
+- 10 Daisycon-campagnes gecontroleerd.
+- 12 TradeTracker-campagnes gecontroleerd.
+- Partnerlinkcontrole: geslaagd.
+- Canonical en domeinnaam met streepje: geslaagd.
+- Totaal aantal fouten: 0.
+
+PUBLICATIE
+V107 is nog niet gepubliceerd. Eerst preview controleren en daarna uitsluitend na GO naar productie zetten.

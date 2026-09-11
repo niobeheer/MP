@@ -1,0 +1,14 @@
+CampingKiezer V109 — gerichte indexatie en CTR
+
+Uitgevoerd
+- V108 met 27 zonnige beelden en de brede homepagehero behouden.
+- Homepage-links naar geblokkeerde filter-URL's vervangen door crawlbare regio-, keten- en themapagina's.
+- 12 provinciepagina's voorzien van unieke keuzehulp, eigen foto, interne links en sterkere metadata.
+- 12 belangrijke voorzieningenpagina's inhoudelijk verrijkt met eigen foto, controlepunten en gerelateerde links.
+- Landelijke provinciehub en adults-onlypagina na inhoudelijke verrijking van noindex naar index gezet.
+- Dunne regionale combinaties met 2-4 resultaten, functionele pagina's en oude 301-URL's bewust noindex gehouden.
+- Acht prominente campingprofielen vanaf de homepage intern versterkt en van specifiekere descriptions voorzien.
+- Homepage, categorieën, provincies en kernthema's voorzien van CTR-gerichtere titles en descriptions.
+- Sitemapstructuur per paginatype behouden; twee herstelde pagina's toegevoegd en lastmod gericht bijgewerkt.
+- Claim/zakelijk uit de bovenbalk en header verwijderd; zakelijke routes blijven in footer en relevante profielcontext.
+- Geen nieuwe combinatiepagina's aangemaakt.

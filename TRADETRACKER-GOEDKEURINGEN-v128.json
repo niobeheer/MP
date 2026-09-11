@@ -1,0 +1,74 @@
+{
+  "checked_at": "2026-09-04",
+  "portal_count_before": 29,
+  "portal_count_after": 42,
+  "real_partner_campaigns_after": 41,
+  "house_campaign_excluded": true,
+  "new_campaigns": [
+    {
+      "campaign_id": "29305",
+      "name": "Krieghuusbelten.nl",
+      "route": "/aanbieders/krieghuusbelten/"
+    },
+    {
+      "campaign_id": "29530",
+      "name": "Dewitteberg.nl",
+      "route": "/aanbieders/de-witte-berg/"
+    },
+    {
+      "campaign_id": "31854",
+      "name": "Webshop.acsi.eu",
+      "route": "/aanbieders/webshop-acsi/"
+    },
+    {
+      "campaign_id": "33066",
+      "name": "Kleinewolf.nl",
+      "route": "/aanbieders/kleine-wolf/"
+    },
+    {
+      "campaign_id": "33501",
+      "name": "Beerzebulten.nl",
+      "route": "/aanbieders/beerze-bulten/"
+    },
+    {
+      "campaign_id": "33666",
+      "name": "Kompascamping.be",
+      "route": "/aanbieders/kompas-camping/"
+    },
+    {
+      "campaign_id": "34373",
+      "name": "JetCamp.com",
+      "route": "/aanbieders/jetcamp/"
+    },
+    {
+      "campaign_id": "34610",
+      "name": "ACSIVerzekeringen.nl",
+      "route": "/aanbieders/acsi-verzekeringen/"
+    },
+    {
+      "campaign_id": "35166",
+      "name": "Sandberghe.nl",
+      "route": "/aanbieders/sandberghe/"
+    },
+    {
+      "campaign_id": "35552",
+      "name": "Campings.com NL",
+      "route": "/aanbieders/campings-com/"
+    },
+    {
+      "campaign_id": "38299",
+      "name": "Watersnip.nl",
+      "route": "/aanbieders/watersnip/"
+    },
+    {
+      "campaign_id": "40561",
+      "name": "Wetona.nl",
+      "route": "/aanbieders/wetona/"
+    },
+    {
+      "campaign_id": "917",
+      "name": "Familyholidays.nl",
+      "route": "/aanbieders/family-holidays/"
+    }
+  ]
+}
