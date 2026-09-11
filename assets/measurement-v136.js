@@ -1,11 +1,21 @@
 /* Consent-first measurement. No form values, search terms, phone numbers,
-   email addresses, full outbound URLs or query strings are collected. */
+   email addresses or URL query strings are collected. */
 (()=>{
  'use strict';
  let started=false,viewed=false,filterTimer;
  const allowed=()=>{try{return localStorage.getItem('ck-cookie')==='all';}catch{return false;}};
  const clean=s=>String(s||'').replace(/[^a-zA-Z0-9_./-]/g,'').slice(0,100);
  const profile=()=>location.pathname.match(/^\/(camping|aanbieders)\/([^/]+)/)?.[2]||'';
+ const affiliateNetwork=(a,u)=>{
+  const explicit=clean(a.dataset.affiliateNetwork||a.dataset.network||'');if(explicit)return explicit;
+  const host=u.hostname.toLowerCase();
+  if(host.includes('tradetracker'))return 'tradetracker';
+  if(host.includes('daisycon'))return 'daisycon';
+  if(host.includes('awin1.com')||host.includes('awltovhc.com'))return 'awin';
+  if(host.includes('impact.com')||host.includes('sjv.io'))return 'impact';
+  if(host.includes('tradedoubler'))return 'tradedoubler';
+  return '';
+ };
  function emit(event,values={}){
   if(!allowed()||!started)return;
   const data={page_path:location.pathname,profile_id:profile(),...values};
@@ -43,7 +53,19 @@
   const a=e.target.closest('a[href]');if(!a)return;
   const u=new URL(a.href,location.href);
   if(u.protocol==='mailto:'||u.protocol==='tel:'){emit('contact_click',{contact_type:u.protocol==='mailto:'?'email':'phone'});return;}
-  if(/^https?:$/.test(u.protocol)&&u.origin!==location.origin)emit('outbound_click',{destination_domain:u.hostname,link_domain:u.hostname,source_path:location.pathname,provider:clean(a.dataset.provider||u.hostname),link_type:a.rel.includes('sponsored')?'affiliate':'website'});
+  if(/^https?:$/.test(u.protocol)&&u.origin!==location.origin){
+   const network=affiliateNetwork(a,u);
+   emit('portfolio_outbound_click',{
+    site:'campingkiezer',
+    destination_domain:u.hostname.toLowerCase(),
+    destination_url:(u.origin+u.pathname).slice(0,300),
+    source_path:location.pathname,
+    provider:clean(a.dataset.provider||a.dataset.camping||u.hostname),
+    link_type:network||a.rel.includes('sponsored')?'affiliate':'website',
+    affiliate_network:network,
+    placement:clean(a.dataset.placement||(/^\/camping\//.test(location.pathname)?'profile':/^\/aanbieders\//.test(location.pathname)?'provider':'content'))
+   });
+  }
   else if(u.pathname.includes('claim-uw-camping'))emit('claim_click');
  });
  document.addEventListener('submit',e=>{if(e.target.matches('.search-form'))emit('search_submit');else emit('form_submit_attempt',{form_id:clean(e.target.name||e.target.id||'form')});});
