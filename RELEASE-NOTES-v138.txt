@@ -1,0 +1,7 @@
+CampingKiezer v138 — uniforme uitgaande klikmeting — 2026-09-11
+
+- Alle externe klikken gebruiken nu het centrale GA4-event `portfolio_outbound_click`.
+- Per klik worden site, bronpad, bestemmingsdomein, bestemmings-URL zonder querystring, linktype, affiliate-netwerk, aanbieder en plaatsing vastgelegd.
+- TradeTracker, Daisycon, Awin, Impact en TradeDoubler worden automatisch aan hun trackingdomein herkend.
+- Meting blijft consent-first en registreert geen zoektermen, formulierwaarden, telefoonnummers, e-mailadressen of URL-querystrings.
+- Uitgaande klikken zijn geen verkopen; omzet wordt alleen bevestigd met orderdata van het affiliate-netwerk of de partner.
