@@ -1,0 +1,50 @@
+name: Import CampingKiezer v137
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'CampingKiezer-v137-GA4-MAANDRAPPORT.zip'
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Extract website into repository root
+        shell: bash
+        run: |
+          set -euo pipefail
+          zip_file="CampingKiezer-v137-GA4-MAANDRAPPORT.zip"
+          if [[ ! -f "$zip_file" ]]; then
+            echo "ZIP is not present; nothing to import."
+            exit 0
+          fi
+          temp_dir="$(mktemp -d)"
+          unzip -q "$zip_file" -d "$temp_dir"
+          if [[ ! -d "$temp_dir/website" ]]; then
+            echo "Expected website/ directory is missing from ZIP."
+            exit 1
+          fi
+          rsync -a "$temp_dir/website/" ./
+          rm -f "$zip_file"
+
+      - name: Commit imported website
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet && git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Import CampingKiezer v137 website"
+          git push
