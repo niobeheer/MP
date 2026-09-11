@@ -1,5 +1,5 @@
 {
-  "version": 137,
+  "version": 139,
   "html": 4572,
   "profiles": 4112,
   "tracked_pages": 4572,
@@ -12,6 +12,7 @@
   "filter_logic": "PASS",
   "filter_css": "PASS (static assertion, not rendered)",
   "measurement_contract": "PASS (isolated fixture, not GA receipt)",
+  "affiliate_truth": "PASS (80 accepted partners, 9 pending; pending links blocked on Onze keuzes)",
   "live_feed_tests": "PARTIAL: FarmCamps 24 rendered live offers; not all providers/end destinations tested",
   "visual_browser_test": "Live FarmCamps desktop inspected; release137 rendered test pending",
   "analytics_activation": "G-6E6QKEMPGT configured; production receipt pending upload",
