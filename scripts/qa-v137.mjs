@@ -25,9 +25,9 @@ function measurement(consent,id,hostname="camping-kiezer.nl"){
 }
 assert.equal(measurement('all','G-TEST123','autobedrijfkiezer.nl').scripts.length,0);
 assert.equal(measurement('necessary','G-TEST123').scripts.length,0);assert.equal(measurement('all','').scripts.length,0);
-const m=measurement('all','G-TEST123');assert.equal(m.scripts.length,1);assert.equal(m.calls.filter(x=>x[0]==='event'&&x[1]==='profile_view').length,1);assert.ok(!JSON.stringify(m.calls).includes('private'));m.win.ckMeasure('outbound_click',{destination_domain:'example.com'});assert.equal(m.calls.at(-1)[1],'outbound_click');
+const m=measurement('all','G-TEST123');assert.equal(m.scripts.length,1);assert.equal(m.calls.filter(x=>x[0]==='event'&&x[1]==='profile_view').length,1);assert.ok(!JSON.stringify(m.calls).includes('private'));m.win.ckMeasure('portfolio_outbound_click',{destination_domain:'example.com'});assert.equal(m.calls.at(-1)[1],'portfolio_outbound_click');
 m.handlers.click({target:{closest:s=>s==='[data-ck-consent],[data-cookie]'?{dataset:{ckConsent:'necessary'}}:null}});
-const before=m.calls.length;m.win.ckMeasure('outbound_click');assert.equal(m.calls.length,before);
+const before=m.calls.length;m.win.ckMeasure('portfolio_outbound_click');assert.equal(m.calls.length,before);
 assert.equal(profiles,4112);assert.equal(tracked,files.length);
 const report={version:137,html:files.length,profiles,tracked_pages:tracked,parseable_schema_blocks:schema,distinct_profile_summaries:summaries.size,duplicate_title_groups:duplicates.length,duplicates,metadata_warnings:warnings,failures,filter_logic:'PASS',filter_css:'PASS (static assertion, not rendered)',measurement_contract:'PASS (isolated fixture, not GA receipt)',live_feed_tests:'PARTIAL: FarmCamps 24 rendered live offers; not all providers/end destinations tested',visual_browser_test:'Live FarmCamps desktop inspected; release137 rendered test pending',analytics_activation:'G-6E6QKEMPGT configured; production receipt pending upload',monthly_email:'SCHEDULED: monthly day 3, 08:00 Europe/Amsterdam, starting October 2026'};
 fs.writeFileSync(path.join(root,'QA-V137-final.json'),JSON.stringify(report,null,2));console.log(JSON.stringify({...report,duplicates:duplicates.slice(0,4),metadata_warnings:warnings.slice(0,4)},null,2));if(failures.length)process.exit(1);
