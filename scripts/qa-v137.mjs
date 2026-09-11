@@ -29,5 +29,17 @@ const m=measurement('all','G-TEST123');assert.equal(m.scripts.length,1);assert.e
 m.handlers.click({target:{closest:s=>s==='[data-ck-consent],[data-cookie]'?{dataset:{ckConsent:'necessary'}}:null}});
 const before=m.calls.length;m.win.ckMeasure('portfolio_outbound_click');assert.equal(m.calls.length,before);
 assert.equal(profiles,4112);assert.equal(tracked,files.length);
-const report={version:137,html:files.length,profiles,tracked_pages:tracked,parseable_schema_blocks:schema,distinct_profile_summaries:summaries.size,duplicate_title_groups:duplicates.length,duplicates,metadata_warnings:warnings,failures,filter_logic:'PASS',filter_css:'PASS (static assertion, not rendered)',measurement_contract:'PASS (isolated fixture, not GA receipt)',live_feed_tests:'PARTIAL: FarmCamps 24 rendered live offers; not all providers/end destinations tested',visual_browser_test:'Live FarmCamps desktop inspected; release137 rendered test pending',analytics_activation:'G-6E6QKEMPGT configured; production receipt pending upload',monthly_email:'SCHEDULED: monthly day 3, 08:00 Europe/Amsterdam, starting October 2026'};
+// Affiliate truth contract: the live portal snapshot is internally consistent and
+// campaigns that are still pending never receive a TradeTracker link on Onze keuzes.
+const affiliateStatus=JSON.parse(fs.readFileSync(path.join(root,'TRADETRACKER-STATUS-v139.json'),'utf8'));
+assert.equal(affiliateStatus.accepted.length,affiliateStatus.real_partner_campaigns);
+assert.equal(affiliateStatus.pending.length,affiliateStatus.portal_pending_count);
+assert.equal(new Set(affiliateStatus.accepted.map(x=>x.campaign_id)).size,affiliateStatus.accepted.length);
+assert.equal(new Set(affiliateStatus.pending.map(x=>x.campaign_id)).size,affiliateStatus.pending.length);
+const choices=fs.readFileSync(path.join(root,'onze-keuzes/index.html'),'utf8');
+for(const campaign of affiliateStatus.pending){
+ const pendingLink=new RegExp(`(?:[?&]|&amp;)c=${campaign.campaign_id}(?:&|&amp;|\\")`);
+ if(pendingLink.test(choices))failures.push({rel:'onze-keuzes/index.html',issue:`pending TradeTracker campaign published: ${campaign.name} (#${campaign.campaign_id})`});
+}
+const report={version:139,html:files.length,profiles,tracked_pages:tracked,parseable_schema_blocks:schema,distinct_profile_summaries:summaries.size,duplicate_title_groups:duplicates.length,duplicates,metadata_warnings:warnings,failures,filter_logic:'PASS',filter_css:'PASS (static assertion, not rendered)',measurement_contract:'PASS (isolated fixture, not GA receipt)',affiliate_truth:`PASS (${affiliateStatus.accepted.length} accepted partners, ${affiliateStatus.pending.length} pending; pending links blocked on Onze keuzes)`,live_feed_tests:'PARTIAL: FarmCamps 24 rendered live offers; not all providers/end destinations tested',visual_browser_test:'Live FarmCamps desktop inspected; release137 rendered test pending',analytics_activation:'G-6E6QKEMPGT configured; production receipt pending upload',monthly_email:'SCHEDULED: monthly day 3, 08:00 Europe/Amsterdam, starting October 2026'};
 fs.writeFileSync(path.join(root,'QA-V137-final.json'),JSON.stringify(report,null,2));console.log(JSON.stringify({...report,duplicates:duplicates.slice(0,4),metadata_warnings:warnings.slice(0,4)},null,2));if(failures.length)process.exit(1);
