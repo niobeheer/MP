@@ -1,0 +1,52 @@
+name: Apply CampingKiezer v140 marketleader update
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/apply-v140-marketleader.mjs
+      - scripts/qa-v137.mjs
+      - .github/workflows/apply-v140-marketleader.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: campingkiezer-v140
+  cancel-in-progress: false
+
+jobs:
+  build-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Apply v140 update
+        run: node scripts/apply-v140-marketleader.mjs
+
+      - name: Run release QA
+        run: node scripts/qa-v137.mjs
+
+      - name: Validate internal links
+        run: node scripts/validate-links.mjs
+
+      - name: Commit generated release
+        run: |
+          git config user.name "CampingKiezer release bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No generated changes to commit"
+          else
+            git commit -m "Apply CampingKiezer v140 marketleader update"
+            git push origin HEAD:main
+          fi
